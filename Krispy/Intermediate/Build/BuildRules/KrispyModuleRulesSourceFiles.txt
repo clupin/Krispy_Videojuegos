@@ -1,0 +1,3 @@
+C:\Users\crist\OneDrive\Documentos\Unreal Projects\Krispy\Source\Krispy\Krispy.Build.cs
+C:\Users\crist\OneDrive\Documentos\Unreal Projects\Krispy\Source\Krispy.Target.cs
+C:\Users\crist\OneDrive\Documentos\Unreal Projects\Krispy\Source\KrispyEditor.Target.cs

@@ -1,0 +1,1191 @@
+﻿Log file open, 11/03/17 11:45:24
+LogWindows: LoadLibraryWithSearchPaths failed for file aqProf.dll. GetLastError=0
+LogWindows: LoadLibraryWithSearchPaths failed for file VSPerf140.dll. GetLastError=0
+LogWindows: LoadLibraryWithSearchPaths failed for file VtuneApi.dll. GetLastError=0
+LogWindows: LoadLibraryWithSearchPaths failed for file VtuneApi32e.dll. GetLastError=0
+LogInit: Display: Running engine for game: Krispy
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(971682862) SRandInit(971682862).
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 103.064345
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-3586342
+LogInit: Engine Version: 4.17.1-3586342+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Aug 15 2017 02:05:26
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.11.03-14.45.31:884][  0]LogInit: Selected Device Profile: [Windows]
+[2017.11.03-14.45.31:884][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.11.03-14.45.32:144][  0]LogInit: Computer: DESKTOP-J1B6B5G
+[2017.11.03-14.45.32:144][  0]LogInit: User: crist
+[2017.11.03-14.45.32:144][  0]LogInit: CPU Page size=4096, Cores=2
+[2017.11.03-14.45.32:144][  0]LogInit: High frequency timer resolution =2.531247 MHz
+[2017.11.03-14.45.32:144][  0]LogMemory: Memory total: Physical=3.9GB (4GB approx)
+[2017.11.03-14.45.32:158][  0]LogMemory: Platform Memory Stats for Windows
+[2017.11.03-14.45.32:158][  0]LogMemory: Process Physical Memory: 277.33 MB used, 277.33 MB peak
+[2017.11.03-14.45.32:158][  0]LogMemory: Process Virtual Memory: 275.64 MB used, 275.64 MB peak
+[2017.11.03-14.45.32:158][  0]LogMemory: Physical Memory: 2786.44 MB used,  1169.56 MB free, 3956.00 MB total
+[2017.11.03-14.45.32:158][  0]LogMemory: Virtual Memory: 652.66 MB used,  1169.56 MB free, 134217728.00 MB total
+[2017.11.03-14.45.36:307][  0]LogInit: Overriding language with editor language configuration option (en).
+[2017.11.03-14.45.36:307][  0]LogInit: Overriding locale with editor culture configuration option ().
+[2017.11.03-14.45.36:307][  0]LogInit: Using OS detected locale (es-CL).
+[2017.11.03-14.46.03:024][  0]LogD3D11RHI: D3D11 adapters:
+[2017.11.03-14.46.03:131][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 520' (Feature Level 11_0)
+[2017.11.03-14.46.03:131][  0]LogD3D11RHI:       128/0/1978 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2017.11.03-14.46.03:191][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.11.03-14.46.03:191][  0]LogD3D11RHI:       0/0/1978 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.11.03-14.46.03:191][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.11.03-14.46.03:259][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.11.03-14.46.03:260][  0]LogD3D11RHI:     GPU DeviceId: 0x1916 (for the marketing name, search the web for "GPU Device Id")
+[2017.11.03-14.46.03:260][  0]LogWindows: EnumDisplayDevices:
+[2017.11.03-14.46.03:260][  0]LogWindows:    0. 'Intel(R) HD Graphics 520' (P:1 D:1)
+[2017.11.03-14.46.03:261][  0]LogWindows:    1. 'Intel(R) HD Graphics 520' (P:0 D:0)
+[2017.11.03-14.46.03:261][  0]LogWindows:    2. 'Intel(R) HD Graphics 520' (P:0 D:0)
+[2017.11.03-14.46.03:261][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2017.11.03-14.46.03:261][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 520
+[2017.11.03-14.46.03:261][  0]LogD3D11RHI:   Driver Version: 20.19.15.4474 (internal:20.19.15.4474, unified:20.19.15.4474)
+[2017.11.03-14.46.03:261][  0]LogD3D11RHI:      Driver Date: 6-13-2016
+[2017.11.03-14.46.03:261][  0]LogRHI: Texture pool is 781 MB (70% of 1117 MB)
+[2017.11.03-14.46.03:270][  0]LogD3D11RHI: Async texture creation enabled
+[2017.11.03-14.46.06:313][  0]LogD3D11RHI: GPU Timing Frequency: 12.000000 (Debug: 2 0)
+[2017.11.03-14.46.07:411][  0]LogShaderCompilers: Guid format shader working directory is -26 characters bigger than the processId version (../../../../../../Users/crist/OneDrive/Documentos/Unreal Projects/Krispy/Intermediate/Shaders/WorkingDirectory/9036/).
+[2017.11.03-14.46.07:411][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/crist/AppData/Local/Temp/UnrealShaderWorkingDir/7B6BDD6A4E58338FBA71099001BCC98F/'.
+[2017.11.03-14.46.07:453][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.11.03-14.46.26:053][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.11.03-14.46.26:151][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.11.03-14.46.26:241][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.11.03-14.46.26:327][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.11.03-14.46.26:483][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.11.03-14.46.26:581][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.11.03-14.46.26:689][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.11.03-14.46.26:798][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.11.03-14.46.26:905][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.11.03-14.46.27:076][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.11.03-14.46.27:174][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.11.03-14.46.27:283][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.11.03-14.46.27:404][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.11.03-14.46.27:501][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.11.03-14.46.27:593][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.11.03-14.46.27:838][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.11.03-14.46.27:838][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.11.03-14.46.27:935][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.11.03-14.46.28:286][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.11.03-14.46.28:346][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.11.03-14.46.28:474][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.11.03-14.46.28:597][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.11.03-14.46.28:741][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.11.03-14.46.28:991][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.11.03-14.46.28:991][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.11.03-14.46.34:721][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.11.03-14.46.43:116][  0]LogDerivedDataCache: Loaded boot cache 8.34s 93MB C:/Users/crist/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.11.03-14.46.43:116][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/crist/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2017.11.03-14.46.43:159][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/crist/OneDrive/Documentos/Unreal Projects/Krispy/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.11.03-14.46.43:159][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.11.03-14.46.43:159][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/crist/OneDrive/Documentos/Unreal Projects/Krispy/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.11.03-14.46.43:159][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.11.03-14.46.43:424][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.11.03-14.46.43:607][  0]LogDerivedDataCache: Using Local data cache path C:/Users/crist/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.11.03-14.46.44:246][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.11.03-14.46.44:444][  0]LogSlate: Using Freetype 2.6.0
+[2017.11.03-14.46.44:897][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.11.03-14.46.44:903][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.11.03-14.47.39:457][  0]LogAssetRegistry: FAssetRegistry took 0.3104 seconds to start up
+[2017.11.03-14.47.46:904][  0]LogInit: Selected Device Profile: [Windows]
+[2017.11.03-14.48.00:293][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.11.03-14.48.08:456][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.11.03-14.48.08:729][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.11.03-14.48.08:816][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.11.03-14.48.08:816][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.11.03-14.48.08:816][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.11.03-14.48.08:816][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.11.03-14.48.27:700][  0]LogNetVersion: Krispy , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3684103045)
+[2017.11.03-14.48.41:113][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 1 prioritized culture(s) in 0.408320 seconds
+[2017.11.03-14.48.41:189][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2017.11.03-14.48.41:189][  0]LogUObjectAllocator: 7529112 out of 0 bytes used by permanent object pool.
+[2017.11.03-14.48.41:189][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.11.03-14.48.41:491][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.11.03-14.51.05:061][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.11.03-14.51.05:224][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.11.03-14.51.20:184][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.11.03-14.51.34:707][  0]SourceControl: Source control is disabled
+[2017.11.03-14.51.34:726][  0]SourceControl: Source control is disabled
+[2017.11.03-14.51.36:202][  0]SourceControl: Source control is disabled
+[2017.11.03-14.51.37:060][  0]SourceControl: Source control is disabled
+[2017.11.03-14.51.45:590][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.11.03-14.51.46:820][  0]LogOcInput: OculusInput pre-init called
+[2017.11.03-14.51.51:530][  0]LogEngine: Initializing Engine...
+[2017.11.03-14.51.52:014][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.11.03-14.52.01:154][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.11.03-14.52.01:685][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.165 s
+[2017.11.03-14.52.15:930][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.11.03-14.52.19:180][  0]LogInit: XAudio2 using 'Altavoces (Conexant SmartAudio HD)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.03-14.52.20:245][  0]LogInit: FAudioDevice initialized.
+[2017.11.03-14.52.20:826][  0]LogDerivedDataCache: Saved boot cache 0.52s 93MB C:/Users/crist/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.11.03-14.52.20:977][  0]LogInit: Texture streaming: Enabled
+[2017.11.03-14.52.25:402][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.11.03-14.52.38:314][  0]LogInit: Transaction tracking system initialized
+[2017.11.03-14.52.41:311][  0]BlueprintLog: New page: Editor Load
+[2017.11.03-14.52.57:537][  0]LocalizationService: Localization service is disabled
+[2017.11.03-14.53.13:572][  0]LogConsoleResponse: Display: 
+[2017.11.03-14.53.35:116][  0]LogFileCache: Scanning file cache for directory 'C:/Users/crist/OneDrive/Documentos/Unreal Projects/Krispy/Content/' took 0.49s
+[2017.11.03-14.53.35:116][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.11.03-14.53.35:221][  0]LogCook: Display: Mobile HDR setting 1
+[2017.11.03-14.53.35:483][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.11.03-14.53.58:868][  0]SourceControl: Source control is disabled
+[2017.11.03-14.53.59:473][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.11.03-14.53.59:821][  0]LightingResults: New page: Lighting Build
+[2017.11.03-14.54.02:532][  0]MapCheck: New page: Map Check
+[2017.11.03-14.54.02:533][  0]LightingResults: New page: Lighting Build
+[2017.11.03-14.54.24:394][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2017.11.03-14.54.29:083][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.11.03-14.54.30:291][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.11.03-14.54.31:526][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.234,456ms to complete.
+[2017.11.03-14.54.31:526][  0]LogFileHelpers: Loading map 'Template_Default' took 32.439
+[2017.11.03-14.54.50:483][  0]LogCollectionManager: Loaded 0 collections in 0.004173 seconds
+[2017.11.03-14.54.53:100][  0]LogFileCache: Scanning file cache for directory 'C:/Users/crist/OneDrive/Documentos/Unreal Projects/Krispy/Saved/Collections/' took 0.01s
+[2017.11.03-14.54.53:100][  0]LogFileCache: Scanning file cache for directory 'C:/Users/crist/OneDrive/Documentos/Unreal Projects/Krispy/Content/Developers/crist/Collections/' took 0.01s
+[2017.11.03-14.54.53:100][  0]LogFileCache: Scanning file cache for directory 'C:/Users/crist/OneDrive/Documentos/Unreal Projects/Krispy/Content/Collections/' took 0.01s
+[2017.11.03-14.54.53:100][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2017.11.03-14.54.53:704][  0]LogContentBrowser: Native class hierarchy populated in 0.4180 seconds. Added 2389 classes and 502 folders.
+[2017.11.03-14.54.55:205][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0025 seconds. Added 0 classes and 0 folders.
+[2017.11.03-14.55.13:131][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0036 seconds. Added 0 classes and 0 folders.
+[2017.11.03-14.55.14:009][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0024 seconds. Added 1 classes and 2 folders.
+[2017.11.03-14.55.34:989][  0]LogSlate: Took 0.451632 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.11.03-14.55.35:124][  0]LogSlate: Took 0.058034 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.11.03-14.55.35:961][  0]LogSlate: Took 0.388864 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.11.03-14.55.41:572][  0]LogRenderer: Reallocating scene render targets to support 856x372 Format 10 NumSamples 1 (Frame:1).
+[2017.11.03-14.55.55:904][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0028 seconds. Added 1 classes and 2 folders.
+[2017.11.03-14.55.55:904][  0]LogLoad: (Engine Initialization) Total time: 858.74 seconds
+[2017.11.03-14.55.55:904][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.11.03-14.55.56:087][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2017.11.03-14.55.58:964][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.11.03-14.56.01:567][  1]LogSlate: Took 0.183079 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.03-14.56.02:603][  4]LogAssetRegistry: Asset discovery search completed in 503.2770 seconds
+[2017.11.03-14.56.02:662][  4]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2017.11.03-14.56.02:662][  4]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000064 seconds (updated 0 objects)
+[2017.11.03-15.03.33:037][507]LogSlate: Took 0.058154 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.03-15.03.34:754][507]LogSlate: Took 0.137790 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.11.03-15.03.43:884][507]LogAIModule: Creating AISystem for world Level_1
+[2017.11.03-15.03.44:863][507]Cmd: MAP LOAD FILE="../../../../../../Users/crist/OneDrive/Documentos/Unreal Projects/Krispy/Content/Level_1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.11.03-15.03.44:901][507]LightingResults: New page: Lighting Build
+[2017.11.03-15.03.44:902][507]LoadErrors: New page: Loading map: Level_1.umap
+[2017.11.03-15.03.45:070][507]MapCheck: New page: Map Check
+[2017.11.03-15.03.45:070][507]LightingResults: New page: Lighting Build
+[2017.11.03-15.03.46:468][507]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.11.03-15.03.46:785][507]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.11.03-15.03.47:165][507]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 379,52ms to complete.
+[2017.11.03-15.03.47:167][507]LogFileHelpers: Loading map 'Level_1' took 2.603
+[2017.11.03-15.04.04:175][577]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0695 seconds. Added 113 classes and 0 folders.
+[2017.11.03-15.07.33:109][580]LogMaterial: Missing cached shader map for material LayerVisMaterial, compiling. 
+[2017.11.03-15.07.38:683][580]LogMaterial: Missing cached shader map for material SelectBrushMaterial, compiling. 
+[2017.11.03-15.07.39:180][580]LogMaterial: Missing cached shader map for material SelectBrushMaterial, compiling. 
+[2017.11.03-15.07.39:805][580]LogMaterial: Missing cached shader map for material MaskBrushMaterial, compiling. 
+[2017.11.03-15.07.40:593][580]LogMaterial: Missing cached shader map for material LandscapeLayerUsageMaterial, compiling. 
+[2017.11.03-15.07.42:688][580]LogMaterial: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2017.11.03-15.07.42:847][580]LogMaterial: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2017.11.03-15.07.43:002][580]LogMaterial: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2017.11.03-15.07.43:117][580]LogMaterial: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2017.11.03-15.07.43:597][580]LogMaterial: Missing cached shader map for material AlphaBrushMaterial, compiling. 
+[2017.11.03-15.07.44:107][580]LogMaterial: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2017.11.03-15.07.44:353][580]LogMaterial: Missing cached shader map for material MaskBrushMaterial, compiling. 
+[2017.11.03-15.07.46:384][580]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2017.11.03-15.08.21:056][195]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.11.03-15.08.27:813][325]Cmd: TRANSACTION UNDO
+[2017.11.03-15.08.27:813][325]LogEditorTransaction: Undo Move Actors
+[2017.11.03-15.08.29:239][325]LogSlate: Took 0.095854 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.03-15.08.29:440][326]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.11.03-15.08.42:636][546]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.11.03-15.09.17:190][365]LogEditorViewport: Clicking Background
+[2017.11.03-15.09.48:580][ 92]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2017.11.03-15.09.54:475][195]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.11.03-15.10.41:324][178]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.11.03-15.10.43:165][215]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2017.11.03-15.11.00:712][589]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.03-15.11.02:648][589]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.03-15.11.03:121][589]PIE: New page: PIE session: Level_1 (03-11-2017 9:11:02)
+[2017.11.03-15.11.03:238][589]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_1
+[2017.11.03-15.11.03:482][589]LogPlayLevel: PIE: StaticDuplicateObject took: (0.243730s)
+[2017.11.03-15.11.03:483][589]LogAIModule: Creating AISystem for world Level_1
+[2017.11.03-15.11.03:524][589]LogPlayLevel: PIE: World Init took: (0.042122s)
+[2017.11.03-15.11.03:638][589]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_1.Level_1 to /Game/UEDPIE_0_Level_1.Level_1 (0.400056s)
+[2017.11.03-15.11.05:790][589]LogInit: XAudio2 using 'Altavoces (Conexant SmartAudio HD)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.03-15.11.06:191][589]LogInit: FAudioDevice initialized.
+[2017.11.03-15.11.06:851][589]LogLoad: Game class is 'BG_GameMode_C'
+[2017.11.03-15.11.08:950][589]LogWorld: Bringing World /Game/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 3) at 2017.11.03-12.11.08
+[2017.11.03-15.11.09:285][589]LogWorld: Bringing up level for play took: 0.550155
+[2017.11.03-15.11.31:181][589]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.1864 seconds. Added 11 classes and 0 folders.
+[2017.11.03-15.11.35:018][589]PIE: Play in editor start time for /Game/UEDPIE_0_Level_1 31,742
+[2017.11.03-15.12.13:908][179]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.11.03-15.14.36:863][621]LogSavePackage: Save=3667.08ms
+[2017.11.03-15.14.36:863][621]LogSavePackage: Moving '../../../../../../Users/crist/OneDrive/Documentos/Unreal Projects/Krispy/Saved/Level_1_Auto1E01B3B9F4C22AFE519ACF8B3B2EFFB4A.tmp' to '../../../../../../Users/crist/OneDrive/Documentos/Unreal Projects/Krispy/Saved/Autosaves/Game/Level_1_Auto1.umap'
+[2017.11.03-15.14.36:892][621]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/crist/OneDrive/Documentos/Unreal Projects/Krispy/Saved/Autosaves/Game/Level_1_Auto1.umap
+[2017.11.03-15.14.38:242][621]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Level_1' took 8.528
+[2017.11.03-15.14.38:242][621]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 8.528
+[2017.11.03-15.14.57:677][713]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.03-15.14.57:744][713]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.03-15.14.57:745][713]PIE: New page: PIE session: Level_1 (03-11-2017 9:14:57)
+[2017.11.03-15.14.57:745][713]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_1
+[2017.11.03-15.14.57:753][713]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007416s)
+[2017.11.03-15.14.57:777][713]LogAIModule: Creating AISystem for world Level_1
+[2017.11.03-15.14.57:777][713]LogPlayLevel: PIE: World Init took: (0.024730s)
+[2017.11.03-15.14.57:778][713]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_1.Level_1 to /Game/UEDPIE_0_Level_1.Level_1 (0.032607s)
+[2017.11.03-15.14.57:978][713]LogInit: XAudio2 using 'Altavoces (Conexant SmartAudio HD)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.03-15.14.58:040][713]LogInit: FAudioDevice initialized.
+[2017.11.03-15.14.58:145][713]LogLoad: Game class is 'BG_GameMode_C'
+[2017.11.03-15.14.58:147][713]LogWorld: Bringing World /Game/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2017.11.03-12.14.58
+[2017.11.03-15.14.58:148][713]LogWorld: Bringing up level for play took: 0.002108
+[2017.11.03-15.14.58:190][713]PIE: Play in editor start time for /Game/UEDPIE_0_Level_1 1,028
+[2017.11.03-15.17.29:151][386]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.03-15.17.29:186][386]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.03-15.17.29:186][386]PIE: New page: PIE session: Level_1 (03-11-2017 9:17:29)
+[2017.11.03-15.17.29:186][386]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_1
+[2017.11.03-15.17.29:295][386]LogPlayLevel: PIE: StaticDuplicateObject took: (0.108868s)
+[2017.11.03-15.17.29:359][386]LogAIModule: Creating AISystem for world Level_1
+[2017.11.03-15.17.29:360][386]LogPlayLevel: PIE: World Init took: (0.064172s)
+[2017.11.03-15.17.29:360][386]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_1.Level_1 to /Game/UEDPIE_0_Level_1.Level_1 (0.173362s)
+[2017.11.03-15.17.29:444][386]LogInit: XAudio2 using 'Altavoces (Conexant SmartAudio HD)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.03-15.17.29:523][386]LogInit: FAudioDevice initialized.
+[2017.11.03-15.17.29:932][386]LogLoad: Game class is 'BG_GameMode_C'
+[2017.11.03-15.17.29:934][386]LogWorld: Bringing World /Game/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2017.11.03-12.17.29
+[2017.11.03-15.17.29:935][386]LogWorld: Bringing up level for play took: 0.001480
+[2017.11.03-15.17.29:937][386]PIE: Play in editor start time for /Game/UEDPIE_0_Level_1 0,774
+[2017.11.03-15.26.49:260][582]LogHotReload: New module detected: UE4Editor-Krispy-2575.dll
+[2017.11.03-15.26.49:751][583]LogHotReload: Starting Hot-Reload from IDE
+[2017.11.03-15.27.05:417][583]LogContentBrowser: Native class hierarchy updated for 'Krispy' in 0.9887 seconds. Added 3 classes and 2 folders.
+[2017.11.03-15.27.05:703][583]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2017.11.03-15.28.20:296][583]LogContentBrowser: Native class hierarchy populated in 1.3629 seconds. Added 2391 classes and 506 folders.
+[2017.11.03-15.28.22:596][583]Display: HotReload took 92.8s.
+[2017.11.03-15.28.31:601][587]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.03-15.28.31:895][587]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.03-15.28.31:895][587]PIE: New page: PIE session: Level_1 (03-11-2017 9:28:31)
+[2017.11.03-15.28.31:895][587]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_1
+[2017.11.03-15.28.31:927][587]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031636s)
+[2017.11.03-15.28.31:972][587]LogAIModule: Creating AISystem for world Level_1
+[2017.11.03-15.28.31:973][587]LogPlayLevel: PIE: World Init took: (0.045586s)
+[2017.11.03-15.28.31:973][587]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_1.Level_1 to /Game/UEDPIE_0_Level_1.Level_1 (0.077630s)
+[2017.11.03-15.28.37:787][587]LogInit: XAudio2 using 'Altavoces (Conexant SmartAudio HD)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.03-15.28.37:808][587]LogInit: FAudioDevice initialized.
+[2017.11.03-15.28.37:973][587]LogLoad: Game class is 'BG_GameMode_C'
+[2017.11.03-15.28.37:975][587]LogWorld: Bringing World /Game/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2017.11.03-12.28.37
+[2017.11.03-15.28.37:976][587]LogWorld: Bringing up level for play took: 0.001796
+[2017.11.03-15.28.38:004][587]PIE: Play in editor start time for /Game/UEDPIE_0_Level_1 6,842
+[2017.11.03-15.30.12:561][952]Cmd: SELECT NONE
+[2017.11.03-15.30.15:723][952]Cmd: SELECT NONE
+[2017.11.03-15.30.19:141][ 38]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.03-15.30.19:187][ 38]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.03-15.30.19:187][ 38]PIE: New page: PIE session: Level_1 (03-11-2017 9:30:19)
+[2017.11.03-15.30.19:187][ 38]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_1
+[2017.11.03-15.30.19:199][ 38]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011445s)
+[2017.11.03-15.30.19:203][ 38]LogAIModule: Creating AISystem for world Level_1
+[2017.11.03-15.30.19:203][ 38]LogPlayLevel: PIE: World Init took: (0.004416s)
+[2017.11.03-15.30.19:204][ 38]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_1.Level_1 to /Game/UEDPIE_0_Level_1.Level_1 (0.017197s)
+[2017.11.03-15.30.19:245][ 38]LogInit: XAudio2 using 'Altavoces (Conexant SmartAudio HD)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.03-15.30.19:304][ 38]LogInit: FAudioDevice initialized.
+[2017.11.03-15.30.19:381][ 38]LogLoad: Game class is 'BG_GameMode_C'
+[2017.11.03-15.30.19:383][ 38]LogWorld: Bringing World /Game/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2017.11.03-12.30.19
+[2017.11.03-15.30.19:383][ 38]LogWorld: Bringing up level for play took: 0.001552
+[2017.11.03-15.30.19:427][ 38]PIE: Play in editor start time for /Game/UEDPIE_0_Level_1 0,265
+[2017.11.03-15.30.37:621][130]LogBlueprint: Warning: [Compiler BA_Krispy] idle to Walk  will never be taken, please connect something to  Can Enter Transition
+[2017.11.03-15.30.37:621][130]LogBlueprint: Warning: [Compiler BA_Krispy] Walk to idle  will never be taken, please connect something to  Can Enter Transition
+[2017.11.03-15.30.39:506][130]LogBlueprint: Warning: [Compiler BA_Krispy] [2942,27] Compile of BA_Krispy successful, but with 2 Warning(s) [in 7.192 ms] (/Game/Blueprints/BA_Krispy.BA_Krispy)
+[2017.11.03-15.31.01:926][130]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0026 seconds. Added 1 classes and 2 folders.
+[2017.11.03-15.31.18:074][130]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2017.11.03-15.31.45:880][130]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_4:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2017.11.03-15.32.20:348][130]LogSlate: Took 0.410465 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.11.03-15.32.26:016][130]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0031 seconds. Added 1 classes and 0 folders.
+[2017.11.03-15.32.37:066][131]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.11.03-15.35.54:791][944]LogSlate: Took 0.070812 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.11.03-15.38.00:009][897]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BA_Krispy" FILE="../../../../../../Users/crist/OneDrive/Documentos/Unreal Projects/Krispy/Content/Blueprints/BA_Krispy.uasset" SILENT=true
+[2017.11.03-15.38.07:229][897]LogSavePackage: Save=6721.55ms
+[2017.11.03-15.38.07:229][897]LogSavePackage: Moving '../../../../../../Users/crist/OneDrive/Documentos/Unreal Projects/Krispy/Saved/BA_Krispy096165774A413120EF2050B9C6CF29D7.tmp' to '../../../../../../Users/crist/OneDrive/Documentos/Unreal Projects/Krispy/Content/Blueprints/BA_Krispy.uasset'
+[2017.11.03-15.38.07:545][897]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/crist/OneDrive/Documentos/Unreal Projects/Krispy/Content/Blueprints/BA_Krispy.uasset
+[2017.11.03-15.38.08:779][898]BlueprintLog: New page: Compile BA_Krispy
+[2017.11.03-15.38.09:420][898]LogBlueprint: Warning: [Compiler BA_Krispy] Walk to idle  will never be taken, please connect something to  Can Enter Transition
+[2017.11.03-15.38.10:720][898]LogBlueprint: Warning: [Compiler BA_Krispy] Node  Result  uses potentially thread-unsafe call  Get Player Character . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2017.11.03-15.38.10:804][898]LogBlueprint: Warning: [Compiler BA_Krispy] Node  Result  uses potentially thread-unsafe call  Get CharacterMovement . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2017.11.03-15.38.10:944][898]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	BA_Krispy_C /Engine/Transient.World_4:PersistentLevel.Actor_0.DebugSkelMeshComponent_0.BA_Krispy_C_1
+	Function /Game/Blueprints/BA_Krispy.BA_Krispy_C:ExecuteUbergraph_BA_Krispy:0051
+[2017.11.03-15.38.10:944][898]LogScript: Warning: Accessed None
+	BA_Krispy_C /Engine/Transient.World_4:PersistentLevel.Actor_0.DebugSkelMeshComponent_0.BA_Krispy_C_1
+	Function /Game/Blueprints/BA_Krispy.BA_Krispy_C:ExecuteUbergraph_BA_Krispy:0066
+[2017.11.03-15.38.10:945][898]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	BA_Krispy_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_Krispy_C_2
+	Function /Game/Blueprints/BA_Krispy.BA_Krispy_C:ExecuteUbergraph_BA_Krispy:0051
+[2017.11.03-15.38.10:945][898]LogScript: Warning: Accessed None
+	BA_Krispy_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_Krispy_C_2
+	Function /Game/Blueprints/BA_Krispy.BA_Krispy_C:ExecuteUbergraph_BA_Krispy:0066
+[2017.11.03-15.38.14:350][898]LogBlueprint: Warning: [Compiler BA_Krispy] [3397,19] Compile of BA_Krispy successful, but with 3 Warning(s) [in 5.571 ms] (/Game/Blueprints/BA_Krispy.BA_Krispy)
+[2017.11.03-15.38.14:718][899]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	BA_Krispy_C /Engine/Transient.World_4:PersistentLevel.Actor_0.DebugSkelMeshComponent_0.BA_Krispy_C_1
+	Function /Game/Blueprints/BA_Krispy.BA_Krispy_C:ExecuteUbergraph_BA_Krispy:0051
+[2017.11.03-15.38.14:718][899]LogScript: Warning: Accessed None
+	BA_Krispy_C /Engine/Transient.World_4:PersistentLevel.Actor_0.DebugSkelMeshComponent_0.BA_Krispy_C_1
+	Function /Game/Blueprints/BA_Krispy.BA_Krispy_C:ExecuteUbergraph_BA_Krispy:0066
+[2017.11.03-15.38.14:805][900]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	BA_Krispy_C /Engine/Transient.World_4:PersistentLevel.Actor_0.DebugSkelMeshComponent_0.BA_Krispy_C_1
+	Function /Game/Blueprints/BA_Krispy.BA_Krispy_C:ExecuteUbergraph_BA_Krispy:0051
+[2017.11.03-15.38.14:805][900]LogScript: Warning: Accessed None
+	BA_Krispy_C /Engine/Transient.World_4:PersistentLevel.Actor_0.DebugSkelMeshComponent_0.BA_Krispy_C_1
+	Function /Game/Blueprints/BA_Krispy.BA_Krispy_C:ExecuteUbergraph_BA_Krispy:0066
+[2017.11.03-15.38.14:921][901]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	BA_Krispy_C /Engine/Transient.World_4:PersistentLevel.Actor_0.DebugSkelMeshComponent_0.BA_Krispy_C_1
+	Function /Game/Blueprints/BA_Krispy.BA_Krispy_C:ExecuteUbergraph_BA_Krispy:0051
+[2017.11.03-15.38.14:922][901]LogScript: Warning: Accessed None
+	BA_Krispy_C /Engine/Transient.World_4:PersistentLevel.Actor_0.DebugSkelMeshComponent_0.BA_Krispy_C_1
+	Function /Game/Blueprints/BA_Krispy.BA_Krispy_C:ExecuteUbergraph_BA_Krispy:0066
+[2017.11.03-15.38.14:961][902]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	BA_Krispy_C /Engine/Transient.World_4:PersistentLevel.Actor_0.DebugSkelMeshComponent_0.BA_Krispy_C_1
+	Function /Game/Blueprints/BA_Krispy.BA_Krispy_C:ExecuteUbergraph_BA_Krispy:0051
+[2017.11.03-15.38.14:962][902]LogScript: Warning: Accessed None
+	BA_Krispy_C /Engine/Transient.World_4:PersistentLevel.Actor_0.DebugSkelMeshComponent_0.BA_Krispy_C_1
+	Function /Game/Blueprints/BA_Krispy.BA_Krispy_C:ExecuteUbergraph_BA_Krispy:0066
+[2017.11.03-15.38.15:009][903]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	BA_Krispy_C /Engine/Transient.World_4:PersistentLevel.Actor_0.DebugSkelMeshComponent_0.BA_Krispy_C_1
+	Function /Game/Blueprints/BA_Krispy.BA_Krispy_C:ExecuteUbergraph_BA_Krispy:0051
+[2017.11.03-15.38.15:010][903]LogScript: Warning: Accessed None
+	BA_Krispy_C /Engine/Transient.World_4:PersistentLevel.Actor_0.DebugSkelMeshComponent_0.BA_Krispy_C_1
+	Function /Game/Blueprints/BA_Krispy.BA_Krispy_C:ExecuteUbergraph_BA_Krispy:0066
+[2017.11.03-15.38.15:057][904]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	BA_Krispy_C /Engine/Transient.World_4:PersistentLevel.Actor_0.DebugSkelMeshComponent_0.BA_Krispy_C_1
+	Function /Game/Blueprints/BA_Krispy.BA_Krispy_C:ExecuteUbergraph_BA_Krispy:0051
+[2017.11.03-15.38.15:058][904]LogScript: Warning: Accessed None
+	BA_Krispy_C /Engine/Transient.World_4:PersistentLevel.Actor_0.DebugSkelMeshComponent_0.BA_Krispy_C_1
+	Function /Game/Blueprints/BA_Krispy.BA_Krispy_C:ExecuteUbergraph_BA_Krispy:0066
+[2017.11.03-15.38.15:119][905]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	BA_Krispy_C /Engine/Transient.World_4:PersistentLevel.Actor_0.DebugSkelMeshComponent_0.BA_Krispy_C_1
+	Function /Game/Blueprints/BA_Krispy.BA_Krispy_C:ExecuteUbergraph_BA_Krispy:0051
+[2017.11.03-15.38.15:120][905]LogScript: Warning: Accessed None
+	BA_Krispy_C /Engine/Transient.World_4:PersistentLevel.Actor_0.DebugSkelMeshComponent_0.BA_Krispy_C_1
+	Function /Game/Blueprints/BA_Krispy.BA_Krispy_C:ExecuteUbergraph_BA_Krispy:0066
+[2017.11.03-15.38.15:182][906]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	BA_Krispy_C /Engine/Transient.World_4:PersistentLevel.Actor_0.DebugSkelMeshComponent_0.BA_Krispy_C_1
+	Function /Game/Blueprints/BA_Krispy.BA_Krispy_C:ExecuteUbergraph_BA_Krispy:0051
+[2017.11.03-15.41.25:959][767]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BA_Krispy" FILE="../../../../../../Users/crist/OneDrive/Documentos/Unreal Projects/Krispy/Content/Blueprints/BA_Krispy.uasset" SILENT=true
+[2017.11.03-15.41.26:194][767]LogSavePackage: Save=226.92ms
+[2017.11.03-15.41.26:194][767]LogSavePackage: Moving '../../../../../../Users/crist/OneDrive/Documentos/Unreal Projects/Krispy/Saved/BA_Krispy078FEA6C434CA8297DF5C7B81AF2BEBD.tmp' to '../../../../../../Users/crist/OneDrive/Documentos/Unreal Projects/Krispy/Content/Blueprints/BA_Krispy.uasset'
+[2017.11.03-15.41.26:206][767]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/crist/OneDrive/Documentos/Unreal Projects/Krispy/Content/Blueprints/BA_Krispy.uasset
+[2017.11.03-15.41.27:168][784]BlueprintLog: New page: Compile BA_Krispy
+[2017.11.03-15.41.27:295][784]LogBlueprint: Warning: [Compiler BA_Krispy] Walk to idle  will never be taken, please connect something to  Can Enter Transition
+[2017.11.03-15.41.27:334][784]LogBlueprint: Warning: [Compiler BA_Krispy] Node  Result  uses potentially thread-unsafe call  Get CharacterMovement . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2017.11.03-15.41.27:335][784]LogScript: Warning: Accessed None trying to read property player
+	BA_Krispy_C /Engine/Transient.World_4:PersistentLevel.Actor_0.DebugSkelMeshComponent_0.BA_Krispy_C_0
+	Function /Game/Blueprints/BA_Krispy.BA_Krispy_C:ExecuteUbergraph_BA_Krispy:0021
+[2017.11.03-15.41.27:335][784]LogScript: Warning: Accessed None
+	BA_Krispy_C /Engine/Transient.World_4:PersistentLevel.Actor_0.DebugSkelMeshComponent_0.BA_Krispy_C_0
+	Function /Game/Blueprints/BA_Krispy.BA_Krispy_C:ExecuteUbergraph_BA_Krispy:0036
+[2017.11.03-15.41.27:494][784]LogBlueprint: Warning: [Compiler BA_Krispy] [3590,33] Compile of BA_Krispy successful, but with 2 Warning(s) [in 325 ms] (/Game/Blueprints/BA_Krispy.BA_Krispy)
+[2017.11.03-15.41.27:606][785]LogScript: Warning: Accessed None trying to read property player
+	BA_Krispy_C /Engine/Transient.World_4:PersistentLevel.Actor_0.DebugSkelMeshComponent_0.BA_Krispy_C_0
+	Function /Game/Blueprints/BA_Krispy.BA_Krispy_C:ExecuteUbergraph_BA_Krispy:0021
+[2017.11.03-15.41.27:607][785]LogScript: Warning: Accessed None
+	BA_Krispy_C /Engine/Transient.World_4:PersistentLevel.Actor_0.DebugSkelMeshComponent_0.BA_Krispy_C_0
+	Function /Game/Blueprints/BA_Krispy.BA_Krispy_C:ExecuteUbergraph_BA_Krispy:0036
+[2017.11.03-15.41.27:651][786]LogScript: Warning: Accessed None trying to read property player
+	BA_Krispy_C /Engine/Transient.World_4:PersistentLevel.Actor_0.DebugSkelMeshComponent_0.BA_Krispy_C_0
+	Function /Game/Blueprints/BA_Krispy.BA_Krispy_C:ExecuteUbergraph_BA_Krispy:0021
+[2017.11.03-15.41.27:651][786]LogScript: Warning: Accessed None
+	BA_Krispy_C /Engine/Transient.World_4:PersistentLevel.Actor_0.DebugSkelMeshComponent_0.BA_Krispy_C_0
+	Function /Game/Blueprints/BA_Krispy.BA_Krispy_C:ExecuteUbergraph_BA_Krispy:0036
+[2017.11.03-15.41.27:702][787]LogScript: Warning: Accessed None trying to read property player
+	BA_Krispy_C /Engine/Transient.World_4:PersistentLevel.Actor_0.DebugSkelMeshComponent_0.BA_Krispy_C_0
+	Function /Game/Blueprints/BA_Krispy.BA_Krispy_C:ExecuteUbergraph_BA_Krispy:0021
+[2017.11.03-15.41.27:702][787]LogScript: Warning: Accessed None
+	BA_Krispy_C /Engine/Transient.World_4:PersistentLevel.Actor_0.DebugSkelMeshComponent_0.BA_Krispy_C_0
+	Function /Game/Blueprints/BA_Krispy.BA_Krispy_C:ExecuteUbergraph_BA_Krispy:0036
+[2017.11.03-15.41.27:749][788]LogScript: Warning: Accessed None trying to read property player
+	BA_Krispy_C /Engine/Transient.World_4:PersistentLevel.Actor_0.DebugSkelMeshComponent_0.BA_Krispy_C_0
+	Function /Game/Blueprints/BA_Krispy.BA_Krispy_C:ExecuteUbergraph_BA_Krispy:0021
+[2017.11.03-15.41.27:749][788]LogScript: Warning: Accessed None
+	BA_Krispy_C /Engine/Transient.World_4:PersistentLevel.Actor_0.DebugSkelMeshComponent_0.BA_Krispy_C_0
+	Function /Game/Blueprints/BA_Krispy.BA_Krispy_C:ExecuteUbergraph_BA_Krispy:0036
+[2017.11.03-15.41.27:788][789]LogScript: Warning: Accessed None trying to read property player
+	BA_Krispy_C /Engine/Transient.World_4:PersistentLevel.Actor_0.DebugSkelMeshComponent_0.BA_Krispy_C_0
+	Function /Game/Blueprints/BA_Krispy.BA_Krispy_C:ExecuteUbergraph_BA_Krispy:0021
+[2017.11.03-15.41.27:788][789]LogScript: Warning: Accessed None
+	BA_Krispy_C /Engine/Transient.World_4:PersistentLevel.Actor_0.DebugSkelMeshComponent_0.BA_Krispy_C_0
+	Function /Game/Blueprints/BA_Krispy.BA_Krispy_C:ExecuteUbergraph_BA_Krispy:0036
+[2017.11.03-15.41.27:831][790]LogScript: Warning: Accessed None trying to read property player
+	BA_Krispy_C /Engine/Transient.World_4:PersistentLevel.Actor_0.DebugSkelMeshComponent_0.BA_Krispy_C_0
+	Function /Game/Blueprints/BA_Krispy.BA_Krispy_C:ExecuteUbergraph_BA_Krispy:0021
+[2017.11.03-15.41.27:831][790]LogScript: Warning: Accessed None
+	BA_Krispy_C /Engine/Transient.World_4:PersistentLevel.Actor_0.DebugSkelMeshComponent_0.BA_Krispy_C_0
+	Function /Game/Blueprints/BA_Krispy.BA_Krispy_C:ExecuteUbergraph_BA_Krispy:0036
+[2017.11.03-15.41.27:895][791]LogScript: Warning: Accessed None trying to read property player
+	BA_Krispy_C /Engine/Transient.World_4:PersistentLevel.Actor_0.DebugSkelMeshComponent_0.BA_Krispy_C_0
+	Function /Game/Blueprints/BA_Krispy.BA_Krispy_C:ExecuteUbergraph_BA_Krispy:0021
+[2017.11.03-15.41.27:896][791]LogScript: Warning: Accessed None
+	BA_Krispy_C /Engine/Transient.World_4:PersistentLevel.Actor_0.DebugSkelMeshComponent_0.BA_Krispy_C_0
+	Function /Game/Blueprints/BA_Krispy.BA_Krispy_C:ExecuteUbergraph_BA_Krispy:0036
+[2017.11.03-15.41.27:963][792]LogScript: Warning: Accessed None trying to read property player
+	BA_Krispy_C /Engine/Transient.World_4:PersistentLevel.Actor_0.DebugSkelMeshComponent_0.BA_Krispy_C_0
+	Function /Game/Blueprints/BA_Krispy.BA_Krispy_C:ExecuteUbergraph_BA_Krispy:0021
+[2017.11.03-15.43.34:338][731]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BA_Krispy" FILE="../../../../../../Users/crist/OneDrive/Documentos/Unreal Projects/Krispy/Content/Blueprints/BA_Krispy.uasset" SILENT=true
+[2017.11.03-15.43.34:551][731]LogSavePackage: Save=200.40ms
+[2017.11.03-15.43.34:551][731]LogSavePackage: Moving '../../../../../../Users/crist/OneDrive/Documentos/Unreal Projects/Krispy/Saved/BA_KrispyE7E3912A483419BDF3B5D89B6F570EA3.tmp' to '../../../../../../Users/crist/OneDrive/Documentos/Unreal Projects/Krispy/Content/Blueprints/BA_Krispy.uasset'
+[2017.11.03-15.43.34:561][731]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/crist/OneDrive/Documentos/Unreal Projects/Krispy/Content/Blueprints/BA_Krispy.uasset
+[2017.11.03-15.43.35:498][748]BlueprintLog: New page: Compile BA_Krispy
+[2017.11.03-15.43.35:631][748]LogBlueprint: Warning: [Compiler BA_Krispy] Node  Result  uses potentially thread-unsafe call  Get CharacterMovement . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2017.11.03-15.43.35:631][748]LogBlueprint: Warning: [Compiler BA_Krispy] Node  Result  uses potentially thread-unsafe call  Get CharacterMovement . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2017.11.03-15.43.35:632][748]LogScript: Warning: Accessed None trying to read property player
+	BA_Krispy_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_Krispy_C_2
+	Function /Game/Blueprints/BA_Krispy.BA_Krispy_C:ExecuteUbergraph_BA_Krispy:0021
+[2017.11.03-15.43.35:633][748]LogScript: Warning: Accessed None
+	BA_Krispy_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_Krispy_C_2
+	Function /Game/Blueprints/BA_Krispy.BA_Krispy_C:ExecuteUbergraph_BA_Krispy:0036
+[2017.11.03-15.43.35:753][748]LogBlueprint: Warning: [Compiler BA_Krispy] [3718,59] Compile of BA_Krispy successful, but with 2 Warning(s) [in 254 ms] (/Game/Blueprints/BA_Krispy.BA_Krispy)
+[2017.11.03-15.43.43:638][873]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BA_Krispy" FILE="../../../../../../Users/crist/OneDrive/Documentos/Unreal Projects/Krispy/Content/Blueprints/BA_Krispy.uasset" SILENT=true
+[2017.11.03-15.43.43:815][873]LogSavePackage: Save=168.84ms
+[2017.11.03-15.43.43:815][873]LogSavePackage: Moving '../../../../../../Users/crist/OneDrive/Documentos/Unreal Projects/Krispy/Saved/BA_Krispy1BA1774D4B3135200E967791E8280770.tmp' to '../../../../../../Users/crist/OneDrive/Documentos/Unreal Projects/Krispy/Content/Blueprints/BA_Krispy.uasset'
+[2017.11.03-15.43.43:821][873]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/crist/OneDrive/Documentos/Unreal Projects/Krispy/Content/Blueprints/BA_Krispy.uasset
+[2017.11.03-15.43.44:313][883]BlueprintLog: New page: Compile BA_Krispy
+[2017.11.03-15.43.44:381][883]LogBlueprint: Warning: [Compiler BA_Krispy] Node  Result  uses potentially thread-unsafe call  Get CharacterMovement . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2017.11.03-15.43.44:382][883]LogBlueprint: Warning: [Compiler BA_Krispy] Node  Result  uses potentially thread-unsafe call  Get CharacterMovement . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2017.11.03-15.43.44:521][883]LogBlueprint: Warning: [Compiler BA_Krispy] [3727,36] Compile of BA_Krispy successful, but with 2 Warning(s) [in 208 ms] (/Game/Blueprints/BA_Krispy.BA_Krispy)
+[2017.11.03-15.43.50:274][933]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.03-15.43.56:946][933]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.03-15.43.56:974][933]PIE: New page: PIE session: Level_1 (03-11-2017 9:43:56)
+[2017.11.03-15.43.56:974][933]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_1
+[2017.11.03-15.43.57:008][933]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033768s)
+[2017.11.03-15.43.57:010][933]LogAIModule: Creating AISystem for world Level_1
+[2017.11.03-15.43.57:010][933]LogPlayLevel: PIE: World Init took: (0.001800s)
+[2017.11.03-15.43.57:044][933]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_1.Level_1 to /Game/UEDPIE_0_Level_1.Level_1 (0.069894s)
+[2017.11.03-15.43.57:423][933]LogInit: XAudio2 using 'Altavoces (Conexant SmartAudio HD)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.03-15.43.57:446][933]LogInit: FAudioDevice initialized.
+[2017.11.03-15.43.57:648][933]LogLoad: Game class is 'BG_GameMode_C'
+[2017.11.03-15.43.57:682][933]LogWorld: Bringing World /Game/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 60) at 2017.11.03-12.43.57
+[2017.11.03-15.43.57:682][933]LogWorld: Bringing up level for play took: 0.033481
+[2017.11.03-15.43.57:699][933]PIE: Play in editor start time for /Game/UEDPIE_0_Level_1 0,536
+[2017.11.03-15.44.05:071][104]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_1" FILE="../../../../../../Users/crist/OneDrive/Documentos/Unreal Projects/Krispy/Content/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.11.03-15.44.05:246][104]LogSavePackage: Save=51.33ms
+[2017.11.03-15.44.05:246][104]LogSavePackage: Moving '../../../../../../Users/crist/OneDrive/Documentos/Unreal Projects/Krispy/Saved/Level_142C361D94B66CB3447B645AC5ED879C2.tmp' to '../../../../../../Users/crist/OneDrive/Documentos/Unreal Projects/Krispy/Content/Level_1.umap'
+[2017.11.03-15.44.05:283][104]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/crist/OneDrive/Documentos/Unreal Projects/Krispy/Content/Level_1.umap
+[2017.11.03-15.44.07:049][143]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.03-15.44.07:152][143]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.03-15.44.07:152][143]PIE: New page: PIE session: Level_1 (03-11-2017 9:44:07)
+[2017.11.03-15.44.07:152][143]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_1
+[2017.11.03-15.44.07:155][143]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003459s)
+[2017.11.03-15.44.07:203][143]LogAIModule: Creating AISystem for world Level_1
+[2017.11.03-15.44.07:203][143]LogPlayLevel: PIE: World Init took: (0.047122s)
+[2017.11.03-15.44.07:203][143]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_1.Level_1 to /Game/UEDPIE_0_Level_1.Level_1 (0.050963s)
+[2017.11.03-15.44.07:456][143]LogInit: XAudio2 using 'Altavoces (Conexant SmartAudio HD)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.03-15.44.07:491][143]LogInit: FAudioDevice initialized.
+[2017.11.03-15.44.07:552][143]LogLoad: Game class is 'BG_GameMode_C'
+[2017.11.03-15.44.07:555][143]LogWorld: Bringing World /Game/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 60) at 2017.11.03-12.44.07
+[2017.11.03-15.44.07:555][143]LogWorld: Bringing up level for play took: 0.002273
+[2017.11.03-15.44.07:557][143]PIE: Play in editor start time for /Game/UEDPIE_0_Level_1 0,395
+[2017.11.03-15.44.28:219][623]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.Actor_1.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2017.11.03-15.44.28:219][623]LogScript: Warning: Accessed None trying to read property player
+	BA_Krispy_C /Engine/Transient.World_10:PersistentLevel.Actor_1.DebugSkelMeshComponent_2.BA_Krispy_C_2
+	Function /Game/Blueprints/BA_Krispy.BA_Krispy_C:ExecuteUbergraph_BA_Krispy:0021
+[2017.11.03-15.44.28:219][623]LogScript: Warning: Accessed None
+	BA_Krispy_C /Engine/Transient.World_10:PersistentLevel.Actor_1.DebugSkelMeshComponent_2.BA_Krispy_C_2
+	Function /Game/Blueprints/BA_Krispy.BA_Krispy_C:ExecuteUbergraph_BA_Krispy:0036
+[2017.11.03-15.44.28:914][623]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_10:PersistentLevel.Actor_1.DebugSkelMeshComponent_2) - call TermArticulated first.
+[2017.11.03-15.44.29:357][623]LogScript: Warning: Accessed None trying to read property player
+	BA_Krispy_C /Engine/Transient.World_10:PersistentLevel.Actor_1.DebugSkelMeshComponent_2.BA_Krispy_C_2
+	Function /Game/Blueprints/BA_Krispy.BA_Krispy_C:ExecuteUbergraph_BA_Krispy:0021
+[2017.11.03-15.44.29:357][623]LogScript: Warning: Accessed None
+	BA_Krispy_C /Engine/Transient.World_10:PersistentLevel.Actor_1.DebugSkelMeshComponent_2.BA_Krispy_C_2
+	Function /Game/Blueprints/BA_Krispy.BA_Krispy_C:ExecuteUbergraph_BA_Krispy:0036
+[2017.11.03-15.44.29:613][623]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.11.03-15.44.29:747][625]LogScript: Warning: Accessed None trying to read property player
+	BA_Krispy_C /Engine/Transient.World_10:PersistentLevel.Actor_1.DebugSkelMeshComponent_2.BA_Krispy_C_2
+	Function /Game/Blueprints/BA_Krispy.BA_Krispy_C:ExecuteUbergraph_BA_Krispy:0021
+[2017.11.03-15.44.29:748][625]LogScript: Warning: Accessed None
+	BA_Krispy_C /Engine/Transient.World_10:PersistentLevel.Actor_1.DebugSkelMeshComponent_2.BA_Krispy_C_2
+	Function /Game/Blueprints/BA_Krispy.BA_Krispy_C:ExecuteUbergraph_BA_Krispy:0036
+[2017.11.03-15.44.29:807][626]LogScript: Warning: Accessed None trying to read property player
+	BA_Krispy_C /Engine/Transient.World_10:PersistentLevel.Actor_1.DebugSkelMeshComponent_2.BA_Krispy_C_2
+	Function /Game/Blueprints/BA_Krispy.BA_Krispy_C:ExecuteUbergraph_BA_Krispy:0021
+[2017.11.03-15.44.29:808][626]LogScript: Warning: Accessed None
+	BA_Krispy_C /Engine/Transient.World_10:PersistentLevel.Actor_1.DebugSkelMeshComponent_2.BA_Krispy_C_2
+	Function /Game/Blueprints/BA_Krispy.BA_Krispy_C:ExecuteUbergraph_BA_Krispy:0036
+[2017.11.03-15.44.29:844][627]LogScript: Warning: Accessed None trying to read property player
+	BA_Krispy_C /Engine/Transient.World_10:PersistentLevel.Actor_1.DebugSkelMeshComponent_2.BA_Krispy_C_2
+	Function /Game/Blueprints/BA_Krispy.BA_Krispy_C:ExecuteUbergraph_BA_Krispy:0021
+[2017.11.03-15.44.29:844][627]LogScript: Warning: Accessed None
+	BA_Krispy_C /Engine/Transient.World_10:PersistentLevel.Actor_1.DebugSkelMeshComponent_2.BA_Krispy_C_2
+	Function /Game/Blueprints/BA_Krispy.BA_Krispy_C:ExecuteUbergraph_BA_Krispy:0036
+[2017.11.03-15.44.29:896][628]LogScript: Warning: Accessed None trying to read property player
+	BA_Krispy_C /Engine/Transient.World_10:PersistentLevel.Actor_1.DebugSkelMeshComponent_2.BA_Krispy_C_2
+	Function /Game/Blueprints/BA_Krispy.BA_Krispy_C:ExecuteUbergraph_BA_Krispy:0021
+[2017.11.03-15.44.29:896][628]LogScript: Warning: Accessed None
+	BA_Krispy_C /Engine/Transient.World_10:PersistentLevel.Actor_1.DebugSkelMeshComponent_2.BA_Krispy_C_2
+	Function /Game/Blueprints/BA_Krispy.BA_Krispy_C:ExecuteUbergraph_BA_Krispy:0036
+[2017.11.03-15.44.29:959][629]LogScript: Warning: Accessed None trying to read property player
+	BA_Krispy_C /Engine/Transient.World_10:PersistentLevel.Actor_1.DebugSkelMeshComponent_2.BA_Krispy_C_2
+	Function /Game/Blueprints/BA_Krispy.BA_Krispy_C:ExecuteUbergraph_BA_Krispy:0021
+[2017.11.03-15.45.51:248][864]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BA_Krispy" FILE="../../../../../../Users/crist/OneDrive/Documentos/Unreal Projects/Krispy/Content/Blueprints/BA_Krispy.uasset" SILENT=true
+[2017.11.03-15.45.51:404][864]LogSavePackage: Save=147.70ms
+[2017.11.03-15.45.51:404][864]LogSavePackage: Moving '../../../../../../Users/crist/OneDrive/Documentos/Unreal Projects/Krispy/Saved/BA_Krispy0A53DE6B4CEEBBF4422DD993809C1B5F.tmp' to '../../../../../../Users/crist/OneDrive/Documentos/Unreal Projects/Krispy/Content/Blueprints/BA_Krispy.uasset'
+[2017.11.03-15.45.51:414][864]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/crist/OneDrive/Documentos/Unreal Projects/Krispy/Content/Blueprints/BA_Krispy.uasset
+[2017.11.03-15.45.52:113][877]BlueprintLog: New page: Compile BA_Krispy
+[2017.11.03-15.45.52:183][877]LogBlueprint: Warning: [Compiler BA_Krispy] Node  Result  uses potentially thread-unsafe call  Get player . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2017.11.03-15.45.52:183][877]LogBlueprint: Warning: [Compiler BA_Krispy] Node  Result  uses potentially thread-unsafe call  Get CharacterMovement . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2017.11.03-15.45.52:456][877]LogBlueprint: Warning: [Compiler BA_Krispy] [3855,29] Compile of BA_Krispy successful, but with 2 Warning(s) [in 341 ms] (/Game/Blueprints/BA_Krispy.BA_Krispy)
+[2017.11.03-15.47.54:896][748]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BA_Krispy" FILE="../../../../../../Users/crist/OneDrive/Documentos/Unreal Projects/Krispy/Content/Blueprints/BA_Krispy.uasset" SILENT=true
+[2017.11.03-15.47.55:027][748]LogSavePackage: Save=117.01ms
+[2017.11.03-15.47.55:027][748]LogSavePackage: Moving '../../../../../../Users/crist/OneDrive/Documentos/Unreal Projects/Krispy/Saved/BA_Krispy8325DE7942DCF26B047A35BBE7D0D507.tmp' to '../../../../../../Users/crist/OneDrive/Documentos/Unreal Projects/Krispy/Content/Blueprints/BA_Krispy.uasset'
+[2017.11.03-15.47.55:085][748]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/crist/OneDrive/Documentos/Unreal Projects/Krispy/Content/Blueprints/BA_Krispy.uasset
+[2017.11.03-15.47.55:846][762]BlueprintLog: New page: Compile BA_Krispy
+[2017.11.03-15.47.55:993][762]LogBlueprint: Warning: [Compiler BA_Krispy] Node  Result  uses potentially thread-unsafe call  Get player . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2017.11.03-15.47.55:994][762]LogBlueprint: Warning: [Compiler BA_Krispy] Node  Result  uses potentially thread-unsafe call  Get player . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2017.11.03-15.47.56:062][762]LogScript: Warning: Accessed None trying to read property player
+	BA_Krispy_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_Krispy_C_3
+	Function /Game/Blueprints/BA_Krispy.BA_Krispy_C:ExecuteUbergraph_BA_Krispy:0028
+[2017.11.03-15.47.56:202][762]LogBlueprint: Warning: [Compiler BA_Krispy] [3979,04] Compile of BA_Krispy successful, but with 2 Warning(s) [in 356 ms] (/Game/Blueprints/BA_Krispy.BA_Krispy)
+[2017.11.03-15.48.06:229][926]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.03-15.48.06:272][926]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.03-15.48.06:274][926]PIE: New page: PIE session: Level_1 (03-11-2017 9:48:06)
+[2017.11.03-15.48.06:275][926]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_1
+[2017.11.03-15.48.06:282][926]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007648s)
+[2017.11.03-15.48.06:286][926]LogAIModule: Creating AISystem for world Level_1
+[2017.11.03-15.48.06:287][926]LogPlayLevel: PIE: World Init took: (0.004812s)
+[2017.11.03-15.48.06:288][926]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_1.Level_1 to /Game/UEDPIE_0_Level_1.Level_1 (0.013779s)
+[2017.11.03-15.48.06:333][926]LogInit: XAudio2 using 'Altavoces (Conexant SmartAudio HD)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.03-15.48.06:354][926]LogInit: FAudioDevice initialized.
+[2017.11.03-15.48.06:385][926]LogLoad: Game class is 'BG_GameMode_C'
+[2017.11.03-15.48.06:387][926]LogWorld: Bringing World /Game/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 60) at 2017.11.03-12.48.06
+[2017.11.03-15.48.06:387][926]LogWorld: Bringing up level for play took: 0.001519
+[2017.11.03-15.48.06:389][926]PIE: Play in editor start time for /Game/UEDPIE_0_Level_1 -0,773
+[2017.11.03-15.48.30:494][487]LogScript: Warning: Accessed None trying to read property player
+	BA_Krispy_C /Engine/Transient.World_0:PersistentLevel.BP_Krispy_C_0.CharacterMesh0.BA_Krispy_C_4
+	Function /Game/Blueprints/BA_Krispy.BA_Krispy_C:ExecuteUbergraph_BA_Krispy:0028
+[2017.11.03-15.48.30:495][487]LogScript: Warning: Accessed None trying to read property player
+	BA_Krispy_C /Engine/Transient.World_12:PersistentLevel.BP_Krispy_C_5.CharacterMesh0.BA_Krispy_C_5
+	Function /Game/Blueprints/BA_Krispy.BA_Krispy_C:ExecuteUbergraph_BA_Krispy:0028
+[2017.11.03-15.48.30:505][487]LogScript: Warning: Accessed None trying to read property player
+	BA_Krispy_C /Engine/Transient.World_0:PersistentLevel.BP_Krispy_C_0.CharacterMesh0.BA_Krispy_C_4
+	Function /Game/Blueprints/BA_Krispy.BA_Krispy_C:ExecuteUbergraph_BA_Krispy:0028
+[2017.11.03-15.48.30:521][487]LogScript: Warning: Accessed None trying to read property player
+	BA_Krispy_C /Engine/Transient.World_12:PersistentLevel.BP_Krispy_C_5.CharacterMesh0.BA_Krispy_C_5
+	Function /Game/Blueprints/BA_Krispy.BA_Krispy_C:ExecuteUbergraph_BA_Krispy:0028
+[2017.11.03-15.48.30:553][487]LogScript: Warning: Accessed None trying to read property player
+	BA_Krispy_C /Engine/Transient.World_0:PersistentLevel.BP_Krispy_C_0.CharacterMesh0.BA_Krispy_C_4
+	Function /Game/Blueprints/BA_Krispy.BA_Krispy_C:ExecuteUbergraph_BA_Krispy:0028
+[2017.11.03-15.48.30:554][487]LogScript: Warning: Accessed None trying to read property player
+	BA_Krispy_C /Engine/Transient.World_12:PersistentLevel.BP_Krispy_C_5.CharacterMesh0.BA_Krispy_C_5
+	Function /Game/Blueprints/BA_Krispy.BA_Krispy_C:ExecuteUbergraph_BA_Krispy:0028
+[2017.11.03-15.48.30:569][487]LogScript: Warning: Accessed None trying to read property player
+	BA_Krispy_C /Engine/Transient.World_12:PersistentLevel.BP_Krispy_C_5.CharacterMesh0.BA_Krispy_C_5
+	Function /Game/Blueprints/BA_Krispy.BA_Krispy_C:ExecuteUbergraph_BA_Krispy:0028
+[2017.11.03-15.48.30:598][488]LogScript: Warning: Accessed None trying to read property player
+	BA_Krispy_C /Engine/Transient.World_12:PersistentLevel.BP_Krispy_C_5.CharacterMesh0.BA_Krispy_C_5
+	Function /Game/Blueprints/BA_Krispy.BA_Krispy_C:ExecuteUbergraph_BA_Krispy:0028
+[2017.11.03-15.48.30:630][489]LogScript: Warning: Accessed None trying to read property player
+	BA_Krispy_C /Engine/Transient.World_12:PersistentLevel.BP_Krispy_C_5.CharacterMesh0.BA_Krispy_C_5
+	Function /Game/Blueprints/BA_Krispy.BA_Krispy_C:ExecuteUbergraph_BA_Krispy:0028
+[2017.11.03-15.48.30:670][490]LogScript: Warning: Accessed None trying to read property player
+	BA_Krispy_C /Engine/Transient.World_12:PersistentLevel.BP_Krispy_C_5.CharacterMesh0.BA_Krispy_C_5
+	Function /Game/Blueprints/BA_Krispy.BA_Krispy_C:ExecuteUbergraph_BA_Krispy:0028
+[2017.11.03-15.48.30:711][491]LogScript: Warning: Accessed None trying to read property player
+	BA_Krispy_C /Engine/Transient.World_12:PersistentLevel.BP_Krispy_C_5.CharacterMesh0.BA_Krispy_C_5
+	Function /Game/Blueprints/BA_Krispy.BA_Krispy_C:ExecuteUbergraph_BA_Krispy:0028
+[2017.11.03-15.48.30:752][492]LogScript: Warning: Accessed None trying to read property player
+	BA_Krispy_C /Engine/Transient.World_12:PersistentLevel.BP_Krispy_C_5.CharacterMesh0.BA_Krispy_C_5
+	Function /Game/Blueprints/BA_Krispy.BA_Krispy_C:ExecuteUbergraph_BA_Krispy:0028
+[2017.11.03-15.48.30:786][493]LogScript: Warning: Accessed None trying to read property player
+	BA_Krispy_C /Engine/Transient.World_12:PersistentLevel.BP_Krispy_C_5.CharacterMesh0.BA_Krispy_C_5
+	Function /Game/Blueprints/BA_Krispy.BA_Krispy_C:ExecuteUbergraph_BA_Krispy:0028
+[2017.11.03-15.48.30:828][494]LogScript: Warning: Accessed None trying to read property player
+	BA_Krispy_C /Engine/Transient.World_12:PersistentLevel.BP_Krispy_C_5.CharacterMesh0.BA_Krispy_C_5
+	Function /Game/Blueprints/BA_Krispy.BA_Krispy_C:ExecuteUbergraph_BA_Krispy:0028
+[2017.11.03-15.48.30:873][495]LogScript: Warning: Accessed None trying to read property player
+	BA_Krispy_C /Engine/Transient.World_12:PersistentLevel.BP_Krispy_C_5.CharacterMesh0.BA_Krispy_C_5
+	Function /Game/Blueprints/BA_Krispy.BA_Krispy_C:ExecuteUbergraph_BA_Krispy:0028
+[2017.11.03-15.48.30:913][496]LogScript: Warning: Accessed None trying to read property player
+	BA_Krispy_C /Engine/Transient.World_12:PersistentLevel.BP_Krispy_C_5.CharacterMesh0.BA_Krispy_C_5
+	Function /Game/Blueprints/BA_Krispy.BA_Krispy_C:ExecuteUbergraph_BA_Krispy:0028
+[2017.11.03-15.48.30:944][497]LogScript: Warning: Accessed None trying to read property player
+	BA_Krispy_C /Engine/Transient.World_12:PersistentLevel.BP_Krispy_C_5.CharacterMesh0.BA_Krispy_C_5
+	Function /Game/Blueprints/BA_Krispy.BA_Krispy_C:ExecuteUbergraph_BA_Krispy:0028
+[2017.11.03-15.48.30:987][498]LogScript: Warning: Accessed None trying to read property player
+	BA_Krispy_C /Engine/Transient.World_12:PersistentLevel.BP_Krispy_C_5.CharacterMesh0.BA_Krispy_C_5
+	Function /Game/Blueprints/BA_Krispy.BA_Krispy_C:ExecuteUbergraph_BA_Krispy:0028
+[2017.11.03-15.48.31:026][499]LogScript: Warning: Accessed None trying to read property player
+	BA_Krispy_C /Engine/Transient.World_12:PersistentLevel.BP_Krispy_C_5.CharacterMesh0.BA_Krispy_C_5
+	Function /Game/Blueprints/BA_Krispy.BA_Krispy_C:ExecuteUbergraph_BA_Krispy:0028
+[2017.11.03-15.48.31:062][500]LogScript: Warning: Accessed None trying to read property player
+	BA_Krispy_C /Engine/Transient.World_12:PersistentLevel.BP_Krispy_C_5.CharacterMesh0.BA_Krispy_C_5
+	Function /Game/Blueprints/BA_Krispy.BA_Krispy_C:ExecuteUbergraph_BA_Krispy:0028
+[2017.11.03-15.48.32:958][609]BlueprintLog: New page: Compile BP_Krispy
+[2017.11.03-15.48.33:179][609]LogBlueprint: Warning: [Compiler BA_Krispy] Node  Result  uses potentially thread-unsafe call  Get player . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2017.11.03-15.48.33:179][609]LogBlueprint: Warning: [Compiler BA_Krispy] Node  Result  uses potentially thread-unsafe call  Get player . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2017.11.03-15.48.33:449][609]LogBlueprint: Warning: [Compiler BA_Krispy] [4016,29] Compile of BA_Krispy successful, but with 2 Warning(s) [in 430 ms] (/Game/Blueprints/BA_Krispy.BA_Krispy)
+[2017.11.03-15.48.33:515][609]LogScript: Warning: Accessed None trying to read property player
+	BA_Krispy_C /Engine/Transient.World_0:PersistentLevel.BP_Krispy_C_0.CharacterMesh0.BA_Krispy_C_3
+	Function /Game/Blueprints/BA_Krispy.BA_Krispy_C:ExecuteUbergraph_BA_Krispy:0028
+[2017.11.03-15.48.33:669][609]LogScript: Warning: Accessed None trying to read property player
+	BA_Krispy_C /Engine/Transient.World_0:PersistentLevel.BP_Krispy_C_0.CharacterMesh0.BA_Krispy_C_4
+	Function /Game/Blueprints/BA_Krispy.BA_Krispy_C:ExecuteUbergraph_BA_Krispy:0028
+[2017.11.03-15.48.33:683][609]LogScript: Warning: Accessed None trying to read property player
+	BA_Krispy_C /Engine/Transient.World_12:PersistentLevel.BP_Krispy_C_5.CharacterMesh0.BA_Krispy_C_6
+	Function /Game/Blueprints/BA_Krispy.BA_Krispy_C:ExecuteUbergraph_BA_Krispy:0028
+[2017.11.03-15.48.33:968][609]LogScript: Warning: Accessed None trying to read property player
+	BA_Krispy_C /Engine/Transient.World_0:PersistentLevel.BP_Krispy_C_0.CharacterMesh0.BA_Krispy_C_4
+	Function /Game/Blueprints/BA_Krispy.BA_Krispy_C:ExecuteUbergraph_BA_Krispy:0028
+[2017.11.03-15.48.33:969][609]LogScript: Warning: Accessed None trying to read property player
+	BA_Krispy_C /Engine/Transient.World_12:PersistentLevel.BP_Krispy_C_5.CharacterMesh0.BA_Krispy_C_6
+	Function /Game/Blueprints/BA_Krispy.BA_Krispy_C:ExecuteUbergraph_BA_Krispy:0028
+[2017.11.03-15.48.33:969][609]LogScript: Warning: Accessed None trying to read property player
+	BA_Krispy_C /Engine/Transient.World_0:PersistentLevel.BP_Krispy_C_1.CharacterMesh0.BA_Krispy_C_7
+	Function /Game/Blueprints/BA_Krispy.BA_Krispy_C:ExecuteUbergraph_BA_Krispy:0028
+[2017.11.03-15.48.33:989][609]LogScript: Warning: Accessed None trying to read property player
+	BA_Krispy_C /Engine/Transient.World_12:PersistentLevel.BP_Krispy_C_5.CharacterMesh0.BA_Krispy_C_6
+	Function /Game/Blueprints/BA_Krispy.BA_Krispy_C:ExecuteUbergraph_BA_Krispy:0028
+[2017.11.03-15.48.34:206][610]LogScript: Warning: Accessed None trying to read property player
+	BA_Krispy_C /Engine/Transient.World_12:PersistentLevel.BP_Krispy_C_5.CharacterMesh0.BA_Krispy_C_6
+	Function /Game/Blueprints/BA_Krispy.BA_Krispy_C:ExecuteUbergraph_BA_Krispy:0028
+[2017.11.03-15.48.34:254][611]LogScript: Warning: Accessed None trying to read property player
+	BA_Krispy_C /Engine/Transient.World_12:PersistentLevel.BP_Krispy_C_5.CharacterMesh0.BA_Krispy_C_6
+	Function /Game/Blueprints/BA_Krispy.BA_Krispy_C:ExecuteUbergraph_BA_Krispy:0028
+[2017.11.03-15.48.34:283][612]LogScript: Warning: Accessed None trying to read property player
+	BA_Krispy_C /Engine/Transient.World_12:PersistentLevel.BP_Krispy_C_5.CharacterMesh0.BA_Krispy_C_6
+	Function /Game/Blueprints/BA_Krispy.BA_Krispy_C:ExecuteUbergraph_BA_Krispy:0028
+[2017.11.03-15.48.34:310][613]LogScript: Warning: Accessed None trying to read property player
+	BA_Krispy_C /Engine/Transient.World_12:PersistentLevel.BP_Krispy_C_5.CharacterMesh0.BA_Krispy_C_6
+	Function /Game/Blueprints/BA_Krispy.BA_Krispy_C:ExecuteUbergraph_BA_Krispy:0028
+[2017.11.03-15.48.34:332][614]LogScript: Warning: Accessed None trying to read property player
+	BA_Krispy_C /Engine/Transient.World_12:PersistentLevel.BP_Krispy_C_5.CharacterMesh0.BA_Krispy_C_6
+	Function /Game/Blueprints/BA_Krispy.BA_Krispy_C:ExecuteUbergraph_BA_Krispy:0028
+[2017.11.03-15.48.34:346][615]LogScript: Warning: Accessed None trying to read property player
+	BA_Krispy_C /Engine/Transient.World_12:PersistentLevel.BP_Krispy_C_5.CharacterMesh0.BA_Krispy_C_6
+	Function /Game/Blueprints/BA_Krispy.BA_Krispy_C:ExecuteUbergraph_BA_Krispy:0028
+[2017.11.03-15.48.34:363][616]LogScript: Warning: Accessed None trying to read property player
+	BA_Krispy_C /Engine/Transient.World_12:PersistentLevel.BP_Krispy_C_5.CharacterMesh0.BA_Krispy_C_6
+	Function /Game/Blueprints/BA_Krispy.BA_Krispy_C:ExecuteUbergraph_BA_Krispy:0028
+[2017.11.03-15.48.34:379][617]LogScript: Warning: Accessed None trying to read property player
+	BA_Krispy_C /Engine/Transient.World_12:PersistentLevel.BP_Krispy_C_5.CharacterMesh0.BA_Krispy_C_6
+	Function /Game/Blueprints/BA_Krispy.BA_Krispy_C:ExecuteUbergraph_BA_Krispy:0028
+[2017.11.03-15.48.34:396][618]LogScript: Warning: Accessed None trying to read property player
+	BA_Krispy_C /Engine/Transient.World_12:PersistentLevel.BP_Krispy_C_5.CharacterMesh0.BA_Krispy_C_6
+	Function /Game/Blueprints/BA_Krispy.BA_Krispy_C:ExecuteUbergraph_BA_Krispy:0028
+[2017.11.03-15.48.34:413][619]LogScript: Warning: Accessed None trying to read property player
+	BA_Krispy_C /Engine/Transient.World_12:PersistentLevel.BP_Krispy_C_5.CharacterMesh0.BA_Krispy_C_6
+	Function /Game/Blueprints/BA_Krispy.BA_Krispy_C:ExecuteUbergraph_BA_Krispy:0028
+[2017.11.03-15.48.34:429][620]LogScript: Warning: Accessed None trying to read property player
+	BA_Krispy_C /Engine/Transient.World_12:PersistentLevel.BP_Krispy_C_5.CharacterMesh0.BA_Krispy_C_6
+	Function /Game/Blueprints/BA_Krispy.BA_Krispy_C:ExecuteUbergraph_BA_Krispy:0028
+[2017.11.03-15.48.34:446][621]LogScript: Warning: Accessed None trying to read property player
+	BA_Krispy_C /Engine/Transient.World_12:PersistentLevel.BP_Krispy_C_5.CharacterMesh0.BA_Krispy_C_6
+	Function /Game/Blueprints/BA_Krispy.BA_Krispy_C:ExecuteUbergraph_BA_Krispy:0028
+[2017.11.03-15.48.34:462][622]LogScript: Warning: Accessed None trying to read property player
+	BA_Krispy_C /Engine/Transient.World_12:PersistentLevel.BP_Krispy_C_5.CharacterMesh0.BA_Krispy_C_6
+	Function /Game/Blueprints/BA_Krispy.BA_Krispy_C:ExecuteUbergraph_BA_Krispy:0028
+[2017.11.03-15.48.34:479][623]LogScript: Warning: Accessed None trying to read property player
+	BA_Krispy_C /Engine/Transient.World_12:PersistentLevel.BP_Krispy_C_5.CharacterMesh0.BA_Krispy_C_6
+	Function /Game/Blueprints/BA_Krispy.BA_Krispy_C:ExecuteUbergraph_BA_Krispy:0028
+[2017.11.03-15.48.39:112][807]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_1" FILE="../../../../../../Users/crist/OneDrive/Documentos/Unreal Projects/Krispy/Content/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.11.03-15.48.39:268][807]LogSavePackage: Save=24.32ms
+[2017.11.03-15.48.39:268][807]LogSavePackage: Moving '../../../../../../Users/crist/OneDrive/Documentos/Unreal Projects/Krispy/Saved/Level_1E42DB16A4EA43A8860F8EF963FFBA578.tmp' to '../../../../../../Users/crist/OneDrive/Documentos/Unreal Projects/Krispy/Content/Level_1.umap'
+[2017.11.03-15.48.39:273][807]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/crist/OneDrive/Documentos/Unreal Projects/Krispy/Content/Level_1.umap
+[2017.11.03-15.48.40:470][837]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.03-15.48.40:518][837]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.03-15.48.40:518][837]PIE: New page: PIE session: Level_1 (03-11-2017 9:48:40)
+[2017.11.03-15.48.40:519][837]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_1
+[2017.11.03-15.48.40:531][837]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012128s)
+[2017.11.03-15.48.40:536][837]LogAIModule: Creating AISystem for world Level_1
+[2017.11.03-15.48.40:538][837]LogPlayLevel: PIE: World Init took: (0.006724s)
+[2017.11.03-15.48.40:538][837]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_1.Level_1 to /Game/UEDPIE_0_Level_1.Level_1 (0.019672s)
+[2017.11.03-15.48.40:602][837]LogInit: XAudio2 using 'Altavoces (Conexant SmartAudio HD)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.03-15.48.40:644][837]LogInit: FAudioDevice initialized.
+[2017.11.03-15.48.40:696][837]LogLoad: Game class is 'BG_GameMode_C'
+[2017.11.03-15.48.40:697][837]LogWorld: Bringing World /Game/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 60) at 2017.11.03-12.48.40
+[2017.11.03-15.48.40:697][837]LogWorld: Bringing up level for play took: 0.001171
+[2017.11.03-15.48.40:760][837]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property player from function: 'ExecuteUbergraph_BA_Krispy' from node: Result in graph: Transition in object: BA_Krispy with description: Accessed None trying to read property player
+[2017.11.03-15.48.40:761][837]PIE: Play in editor start time for /Game/UEDPIE_0_Level_1 -0,401
+[2017.11.03-15.49.30:712][858]LogScript: Warning: Accessed None trying to read property player
+	BA_Krispy_C /Engine/Transient.World_13:PersistentLevel.BP_Krispy_C_2.CharacterMesh0.BA_Krispy_C_8
+	Function /Game/Blueprints/BA_Krispy.BA_Krispy_C:ExecuteUbergraph_BA_Krispy:0028
+[2017.11.03-15.49.30:713][858]LogScript: Warning: Accessed None trying to read property player
+	BA_Krispy_C /Engine/Transient.World_13:PersistentLevel.BP_Krispy_C_2.CharacterMesh0.BA_Krispy_C_8
+	Function /Game/Blueprints/BA_Krispy.BA_Krispy_C:ExecuteUbergraph_BA_Krispy:0028
+[2017.11.03-15.49.30:897][859]LogScript: Warning: Accessed None trying to read property player
+	BA_Krispy_C /Engine/Transient.World_13:PersistentLevel.BP_Krispy_C_2.CharacterMesh0.BA_Krispy_C_8
+	Function /Game/Blueprints/BA_Krispy.BA_Krispy_C:ExecuteUbergraph_BA_Krispy:0028
+[2017.11.03-15.49.30:926][860]LogScript: Warning: Accessed None trying to read property player
+	BA_Krispy_C /Engine/Transient.World_13:PersistentLevel.BP_Krispy_C_2.CharacterMesh0.BA_Krispy_C_8
+	Function /Game/Blueprints/BA_Krispy.BA_Krispy_C:ExecuteUbergraph_BA_Krispy:0028
+[2017.11.03-15.49.30:961][861]LogScript: Warning: Accessed None trying to read property player
+	BA_Krispy_C /Engine/Transient.World_13:PersistentLevel.BP_Krispy_C_2.CharacterMesh0.BA_Krispy_C_8
+	Function /Game/Blueprints/BA_Krispy.BA_Krispy_C:ExecuteUbergraph_BA_Krispy:0028
+[2017.11.03-15.49.31:002][862]LogScript: Warning: Accessed None trying to read property player
+	BA_Krispy_C /Engine/Transient.World_13:PersistentLevel.BP_Krispy_C_2.CharacterMesh0.BA_Krispy_C_8
+	Function /Game/Blueprints/BA_Krispy.BA_Krispy_C:ExecuteUbergraph_BA_Krispy:0028
+[2017.11.03-15.49.31:036][863]LogScript: Warning: Accessed None trying to read property player
+	BA_Krispy_C /Engine/Transient.World_13:PersistentLevel.BP_Krispy_C_2.CharacterMesh0.BA_Krispy_C_8
+	Function /Game/Blueprints/BA_Krispy.BA_Krispy_C:ExecuteUbergraph_BA_Krispy:0028
+[2017.11.03-15.49.31:102][864]LogScript: Warning: Accessed None trying to read property player
+	BA_Krispy_C /Engine/Transient.World_13:PersistentLevel.BP_Krispy_C_2.CharacterMesh0.BA_Krispy_C_8
+	Function /Game/Blueprints/BA_Krispy.BA_Krispy_C:ExecuteUbergraph_BA_Krispy:0028
+[2017.11.03-15.49.31:172][865]LogScript: Warning: Accessed None trying to read property player
+	BA_Krispy_C /Engine/Transient.World_13:PersistentLevel.BP_Krispy_C_2.CharacterMesh0.BA_Krispy_C_8
+	Function /Game/Blueprints/BA_Krispy.BA_Krispy_C:ExecuteUbergraph_BA_Krispy:0028
+[2017.11.03-15.49.31:238][866]LogScript: Warning: Accessed None trying to read property player
+	BA_Krispy_C /Engine/Transient.World_13:PersistentLevel.BP_Krispy_C_2.CharacterMesh0.BA_Krispy_C_8
+	Function /Game/Blueprints/BA_Krispy.BA_Krispy_C:ExecuteUbergraph_BA_Krispy:0028
+[2017.11.03-15.49.31:307][867]LogScript: Warning: Accessed None trying to read property player
+	BA_Krispy_C /Engine/Transient.World_13:PersistentLevel.BP_Krispy_C_2.CharacterMesh0.BA_Krispy_C_8
+	Function /Game/Blueprints/BA_Krispy.BA_Krispy_C:ExecuteUbergraph_BA_Krispy:0028
+[2017.11.03-15.49.31:380][868]LogScript: Warning: Accessed None trying to read property player
+	BA_Krispy_C /Engine/Transient.World_13:PersistentLevel.BP_Krispy_C_2.CharacterMesh0.BA_Krispy_C_8
+	Function /Game/Blueprints/BA_Krispy.BA_Krispy_C:ExecuteUbergraph_BA_Krispy:0028
+[2017.11.03-15.49.31:451][869]LogScript: Warning: Accessed None trying to read property player
+	BA_Krispy_C /Engine/Transient.World_13:PersistentLevel.BP_Krispy_C_2.CharacterMesh0.BA_Krispy_C_8
+	Function /Game/Blueprints/BA_Krispy.BA_Krispy_C:ExecuteUbergraph_BA_Krispy:0028
+[2017.11.03-15.49.31:516][870]LogScript: Warning: Accessed None trying to read property player
+	BA_Krispy_C /Engine/Transient.World_13:PersistentLevel.BP_Krispy_C_2.CharacterMesh0.BA_Krispy_C_8
+	Function /Game/Blueprints/BA_Krispy.BA_Krispy_C:ExecuteUbergraph_BA_Krispy:0028
+[2017.11.03-15.49.31:579][871]LogScript: Warning: Accessed None trying to read property player
+	BA_Krispy_C /Engine/Transient.World_13:PersistentLevel.BP_Krispy_C_2.CharacterMesh0.BA_Krispy_C_8
+	Function /Game/Blueprints/BA_Krispy.BA_Krispy_C:ExecuteUbergraph_BA_Krispy:0028
+[2017.11.03-15.49.31:640][872]LogScript: Warning: Accessed None trying to read property player
+	BA_Krispy_C /Engine/Transient.World_13:PersistentLevel.BP_Krispy_C_2.CharacterMesh0.BA_Krispy_C_8
+	Function /Game/Blueprints/BA_Krispy.BA_Krispy_C:ExecuteUbergraph_BA_Krispy:0028
+[2017.11.03-15.49.31:657][873]LogScript: Warning: Accessed None trying to read property player
+	BA_Krispy_C /Engine/Transient.World_13:PersistentLevel.BP_Krispy_C_2.CharacterMesh0.BA_Krispy_C_8
+	Function /Game/Blueprints/BA_Krispy.BA_Krispy_C:ExecuteUbergraph_BA_Krispy:0028
+[2017.11.03-15.49.33:361][941]LogScript: Warning: Accessed None trying to read property player
+	BA_Krispy_C /Engine/Transient.World_14:PersistentLevel.BP_Krispy_C_3.CharacterMesh0.BA_Krispy_C_9
+	Function /Game/Blueprints/BA_Krispy.BA_Krispy_C:ExecuteUbergraph_BA_Krispy:0028
+[2017.11.03-15.49.33:362][941]LogScript: Warning: Accessed None trying to read property player
+	BA_Krispy_C /Engine/Transient.World_14:PersistentLevel.BP_Krispy_C_3.CharacterMesh0.BA_Krispy_C_9
+	Function /Game/Blueprints/BA_Krispy.BA_Krispy_C:ExecuteUbergraph_BA_Krispy:0028
+[2017.11.03-15.49.33:814][942]LogScript: Warning: Accessed None trying to read property player
+	BA_Krispy_C /Engine/Transient.World_14:PersistentLevel.BP_Krispy_C_3.CharacterMesh0.BA_Krispy_C_9
+	Function /Game/Blueprints/BA_Krispy.BA_Krispy_C:ExecuteUbergraph_BA_Krispy:0028
+[2017.11.03-15.49.33:972][943]LogScript: Warning: Accessed None trying to read property player
+	BA_Krispy_C /Engine/Transient.World_14:PersistentLevel.BP_Krispy_C_3.CharacterMesh0.BA_Krispy_C_9
+	Function /Game/Blueprints/BA_Krispy.BA_Krispy_C:ExecuteUbergraph_BA_Krispy:0028
+[2017.11.03-15.49.33:989][944]LogScript: Warning: Accessed None trying to read property player
+	BA_Krispy_C /Engine/Transient.World_14:PersistentLevel.BP_Krispy_C_3.CharacterMesh0.BA_Krispy_C_9
+	Function /Game/Blueprints/BA_Krispy.BA_Krispy_C:ExecuteUbergraph_BA_Krispy:0028
+[2017.11.03-15.49.34:005][945]LogScript: Warning: Accessed None trying to read property player
+	BA_Krispy_C /Engine/Transient.World_14:PersistentLevel.BP_Krispy_C_3.CharacterMesh0.BA_Krispy_C_9
+	Function /Game/Blueprints/BA_Krispy.BA_Krispy_C:ExecuteUbergraph_BA_Krispy:0028
+[2017.11.03-15.49.34:022][946]LogScript: Warning: Accessed None trying to read property player
+	BA_Krispy_C /Engine/Transient.World_14:PersistentLevel.BP_Krispy_C_3.CharacterMesh0.BA_Krispy_C_9
+	Function /Game/Blueprints/BA_Krispy.BA_Krispy_C:ExecuteUbergraph_BA_Krispy:0028
+[2017.11.03-15.49.34:039][947]LogScript: Warning: Accessed None trying to read property player
+	BA_Krispy_C /Engine/Transient.World_14:PersistentLevel.BP_Krispy_C_3.CharacterMesh0.BA_Krispy_C_9
+	Function /Game/Blueprints/BA_Krispy.BA_Krispy_C:ExecuteUbergraph_BA_Krispy:0028
+[2017.11.03-15.49.34:055][948]LogScript: Warning: Accessed None trying to read property player
+	BA_Krispy_C /Engine/Transient.World_14:PersistentLevel.BP_Krispy_C_3.CharacterMesh0.BA_Krispy_C_9
+	Function /Game/Blueprints/BA_Krispy.BA_Krispy_C:ExecuteUbergraph_BA_Krispy:0028
+[2017.11.03-15.49.34:072][949]LogScript: Warning: Accessed None trying to read property player
+	BA_Krispy_C /Engine/Transient.World_14:PersistentLevel.BP_Krispy_C_3.CharacterMesh0.BA_Krispy_C_9
+	Function /Game/Blueprints/BA_Krispy.BA_Krispy_C:ExecuteUbergraph_BA_Krispy:0028
+[2017.11.03-15.49.34:089][950]LogScript: Warning: Accessed None trying to read property player
+	BA_Krispy_C /Engine/Transient.World_14:PersistentLevel.BP_Krispy_C_3.CharacterMesh0.BA_Krispy_C_9
+	Function /Game/Blueprints/BA_Krispy.BA_Krispy_C:ExecuteUbergraph_BA_Krispy:0028
+[2017.11.03-15.49.34:105][951]LogScript: Warning: Accessed None trying to read property player
+	BA_Krispy_C /Engine/Transient.World_14:PersistentLevel.BP_Krispy_C_3.CharacterMesh0.BA_Krispy_C_9
+	Function /Game/Blueprints/BA_Krispy.BA_Krispy_C:ExecuteUbergraph_BA_Krispy:0028
+[2017.11.03-15.49.34:122][952]LogScript: Warning: Accessed None trying to read property player
+	BA_Krispy_C /Engine/Transient.World_14:PersistentLevel.BP_Krispy_C_3.CharacterMesh0.BA_Krispy_C_9
+	Function /Game/Blueprints/BA_Krispy.BA_Krispy_C:ExecuteUbergraph_BA_Krispy:0028
+[2017.11.03-15.49.34:139][953]LogScript: Warning: Accessed None trying to read property player
+	BA_Krispy_C /Engine/Transient.World_14:PersistentLevel.BP_Krispy_C_3.CharacterMesh0.BA_Krispy_C_9
+	Function /Game/Blueprints/BA_Krispy.BA_Krispy_C:ExecuteUbergraph_BA_Krispy:0028
+[2017.11.03-15.49.34:155][954]LogScript: Warning: Accessed None trying to read property player
+	BA_Krispy_C /Engine/Transient.World_14:PersistentLevel.BP_Krispy_C_3.CharacterMesh0.BA_Krispy_C_9
+	Function /Game/Blueprints/BA_Krispy.BA_Krispy_C:ExecuteUbergraph_BA_Krispy:0028
+[2017.11.03-15.49.34:172][955]LogScript: Warning: Accessed None trying to read property player
+	BA_Krispy_C /Engine/Transient.World_14:PersistentLevel.BP_Krispy_C_3.CharacterMesh0.BA_Krispy_C_9
+	Function /Game/Blueprints/BA_Krispy.BA_Krispy_C:ExecuteUbergraph_BA_Krispy:0028
+[2017.11.03-15.49.34:188][956]LogScript: Warning: Accessed None trying to read property player
+	BA_Krispy_C /Engine/Transient.World_14:PersistentLevel.BP_Krispy_C_3.CharacterMesh0.BA_Krispy_C_9
+	Function /Game/Blueprints/BA_Krispy.BA_Krispy_C:ExecuteUbergraph_BA_Krispy:0028
+[2017.11.03-15.52.02:756][878]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Krispy" FILE="../../../../../../Users/crist/OneDrive/Documentos/Unreal Projects/Krispy/Content/Blueprints/BP_Krispy.uasset" SILENT=true
+[2017.11.03-15.52.03:188][878]LogSavePackage: Save=354.72ms
+[2017.11.03-15.52.03:188][878]LogSavePackage: Moving '../../../../../../Users/crist/OneDrive/Documentos/Unreal Projects/Krispy/Saved/BP_Krispy34D1EF92415F1AC285C24399A56BE8BC.tmp' to '../../../../../../Users/crist/OneDrive/Documentos/Unreal Projects/Krispy/Content/Blueprints/BP_Krispy.uasset'
+[2017.11.03-15.52.03:241][878]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/crist/OneDrive/Documentos/Unreal Projects/Krispy/Content/Blueprints/BP_Krispy.uasset
+[2017.11.03-15.53.30:160][110]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.11.03-15.54.27:861][111]Cmd: QUIT_EDITOR
+[2017.11.03-15.54.56:070][111]LogExit: Preparing to exit.
+[2017.11.03-15.55.21:633][111]LogDirectoryWatcher: A directory notification for 'C:/Users/crist/OneDrive/Documentos/Unreal Projects/Krispy/Content/' was aborted.
+[2017.11.03-15.55.40:424][111]LogExit: Editor shut down
+[2017.11.03-15.55.42:545][111]LogExit: Transaction tracking system shut down
+[2017.11.03-15.55.55:838][111]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.11.03-15.55.55:838][111]LogDirectoryWatcher: A directory notification for '../../../../../../Users/crist/OneDrive/Documentos/Unreal Projects/Krispy/Content/' was aborted.
+[2017.11.03-15.55.55:838][111]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.11.03-15.55.55:838][111]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2017.11.03-15.55.55:839][111]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2017.11.03-15.56.32:791][111]LogExit: Object subsystem successfully closed.
+[2017.11.03-15.56.47:281][111]LogD3D11RHI: Shutdown
+[2017.11.03-15.56.47:414][111]LogD3D11RHI: CleanupD3DDevice
+[2017.11.03-15.56.58:555][111]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.11.03-19.53.32:538][111]LogModuleManager: Shutting down and abandoning module ClothingSystemEditorInterface (545)
+[2017.11.03-19.53.32:538][111]LogModuleManager: Shutting down and abandoning module SkeletonEditor (543)
+[2017.11.03-19.53.32:986][111]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (541)
+[2017.11.03-19.53.33:523][111]LogModuleManager: Shutting down and abandoning module Krispy (539)
+[2017.11.03-19.53.33:523][111]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (538)
+[2017.11.03-19.53.33:966][111]LogModuleManager: Shutting down and abandoning module BlueprintGraph (536)
+[2017.11.03-19.53.33:966][111]LogModuleManager: Shutting down and abandoning module BlueprintProfiler (534)
+[2017.11.03-19.53.34:795][111]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (532)
+[2017.11.03-19.53.34:795][111]LogModuleManager: Shutting down and abandoning module SceneOutliner (530)
+[2017.11.03-19.53.34:872][111]LogModuleManager: Shutting down and abandoning module AddContentDialog (528)
+[2017.11.03-19.53.38:377][111]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.17/FeaturePacks/' was aborted.
+[2017.11.03-19.53.53:329][111]LogModuleManager: Shutting down and abandoning module WidgetCarousel (527)
+[2017.11.03-19.53.53:329][111]LogModuleManager: Shutting down and abandoning module EditorWidgets (524)
+[2017.11.03-19.53.53:329][111]LogModuleManager: Shutting down and abandoning module CollectionManager (522)
+[2017.11.03-19.53.53:467][111]LogDirectoryWatcher: A directory notification for 'C:/Users/crist/OneDrive/Documentos/Unreal Projects/Krispy/Content/Collections/' was aborted.
+[2017.11.03-19.53.53:468][111]LogDirectoryWatcher: A directory notification for 'C:/Users/crist/OneDrive/Documentos/Unreal Projects/Krispy/Content/Developers/crist/Collections/' was aborted.
+[2017.11.03-19.53.53:468][111]LogDirectoryWatcher: A directory notification for 'C:/Users/crist/OneDrive/Documentos/Unreal Projects/Krispy/Saved/Collections/' was aborted.
+[2017.11.03-19.53.54:001][111]LogModuleManager: Shutting down and abandoning module StatsViewer (520)
+[2017.11.03-19.53.54:714][111]LogModuleManager: Shutting down and abandoning module FoliageEdit (518)
+[2017.11.03-19.53.55:049][111]LogModuleManager: Shutting down and abandoning module LandscapeEditor (516)
+[2017.11.03-19.53.57:170][111]LogModuleManager: Shutting down and abandoning module MeshPaintMode (514)
+[2017.11.03-19.53.57:381][111]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (512)
+[2017.11.03-19.53.57:381][111]LogModuleManager: Shutting down and abandoning module ActorPickerMode (510)
+[2017.11.03-19.53.57:381][111]LogModuleManager: Shutting down and abandoning module GeometryMode (508)
+[2017.11.03-19.53.57:381][111]LogModuleManager: Shutting down and abandoning module TextureAlignMode (506)
+[2017.11.03-19.53.57:381][111]LogModuleManager: Shutting down and abandoning module BspMode (504)
+[2017.11.03-19.53.57:577][111]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (502)
+[2017.11.03-19.53.57:741][111]LogModuleManager: Shutting down and abandoning module HardwareSurvey (500)
+[2017.11.03-19.53.58:175][111]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (498)
+[2017.11.03-19.53.58:420][111]LogModuleManager: Shutting down and abandoning module AutomationWorker (496)
+[2017.11.03-19.53.59:111][111]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (494)
+[2017.11.03-19.53.59:674][111]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (492)
+[2017.11.03-19.54.02:004][111]LogModuleManager: Shutting down and abandoning module PlacementMode (491)
+[2017.11.03-19.54.02:004][111]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (488)
+[2017.11.03-19.54.02:004][111]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (486)
+[2017.11.03-19.54.02:004][111]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (484)
+[2017.11.03-19.54.02:004][111]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (482)
+[2017.11.03-19.54.02:004][111]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (480)
+[2017.11.03-19.54.02:335][111]LogModuleManager: Shutting down and abandoning module Media (479)
+[2017.11.03-19.54.02:335][111]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (476)
+[2017.11.03-19.54.02:335][111]LogModuleManager: Shutting down and abandoning module CharacterAI (474)
+[2017.11.03-19.54.02:836][111]LogModuleManager: Shutting down and abandoning module AudioCapture (472)
+[2017.11.03-19.54.03:671][111]LogModuleManager: Shutting down and abandoning module SequenceRecorder (471)
+[2017.11.03-19.54.03:752][111]LogModuleManager: Shutting down and abandoning module SmartSnapping (468)
+[2017.11.03-19.54.03:810][111]LogModuleManager: Shutting down and abandoning module SessionServices (466)
+[2017.11.03-19.54.03:810][111]LogModuleManager: Shutting down and abandoning module ViewportSnapping (464)
+[2017.11.03-19.54.03:916][111]LogModuleManager: Shutting down and abandoning module ViewportInteraction (462)
+[2017.11.03-19.54.03:916][111]LogModuleManager: Shutting down and abandoning module ClothPainter (460)
+[2017.11.03-19.54.04:600][111]LogModuleManager: Shutting down and abandoning module LogVisualizer (458)
+[2017.11.03-19.54.05:582][111]LogModuleManager: Shutting down and abandoning module IntroTutorials (456)
+[2017.11.03-19.54.05:918][111]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (455)
+[2017.11.03-19.54.06:319][111]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (452)
+[2017.11.03-19.54.06:482][111]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (450)
+[2017.11.03-19.54.06:482][111]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (448)
+[2017.11.03-19.54.06:502][111]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (447)
+[2017.11.03-19.54.07:590][111]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (444)
+[2017.11.03-19.54.07:590][111]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (442)
+[2017.11.03-19.54.07:590][111]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (440)
+[2017.11.03-19.54.07:590][111]LogModuleManager: Shutting down and abandoning module InputBindingEditor (438)
+[2017.11.03-19.54.07:695][111]LogModuleManager: Shutting down and abandoning module MergeActors (436)
+[2017.11.03-19.54.07:933][111]LogModuleManager: Shutting down and abandoning module SizeMap (434)
+[2017.11.03-19.54.08:375][111]LogModuleManager: Shutting down and abandoning module TreeMap (432)
+[2017.11.03-19.54.08:535][111]LogModuleManager: Shutting down and abandoning module ReferenceViewer (430)
+[2017.11.03-19.54.08:630][111]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (428)
+[2017.11.03-19.54.08:891][111]LogModuleManager: Shutting down and abandoning module LocalizationService (427)
+[2017.11.03-19.54.08:926][111]LogModuleManager: Shutting down and abandoning module HardwareTargeting (424)
+[2017.11.03-19.54.08:926][111]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (422)
+[2017.11.03-19.54.09:139][111]LogModuleManager: Shutting down and abandoning module UndoHistory (420)
+[2017.11.03-19.54.09:223][111]LogModuleManager: Shutting down and abandoning module XmlParser (418)
+[2017.11.03-19.54.09:424][111]LogModuleManager: Shutting down and abandoning module Blutility (416)
+[2017.11.03-19.54.09:443][111]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (414)
+[2017.11.03-19.54.09:964][111]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (413)
+[2017.11.03-19.54.10:458][111]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (410)
+[2017.11.03-19.54.10:712][111]LogModuleManager: Shutting down and abandoning module SettingsEditor (408)
+[2017.11.03-19.54.10:798][111]LogModuleManager: Shutting down and abandoning module ProjectLauncher (406)
+[2017.11.03-19.54.11:224][111]LogModuleManager: Shutting down and abandoning module SessionFrontend (404)
+[2017.11.03-19.54.11:713][111]LogModuleManager: Shutting down and abandoning module ProfilerClient (402)
+[2017.11.03-19.54.11:862][111]LogModuleManager: Shutting down and abandoning module DeviceManager (400)
+[2017.11.03-19.54.12:133][111]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (399)
+[2017.11.03-19.54.12:848][111]LogModuleManager: Shutting down and abandoning module AutomationController (396)
+[2017.11.03-19.54.13:180][111]LogModuleManager: Shutting down and abandoning module AutomationWindow (394)
+[2017.11.03-19.54.13:894][111]LogModuleManager: Shutting down and abandoning module Layers (392)
+[2017.11.03-19.54.14:662][111]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (390)
+[2017.11.03-19.54.14:943][111]LogModuleManager: Shutting down and abandoning module DetailCustomizations (388)
+[2017.11.03-19.54.15:671][111]LogModuleManager: Shutting down and abandoning module PackagesDialog (386)
+[2017.11.03-19.54.15:686][111]LogModuleManager: Shutting down and abandoning module Persona (384)
+[2017.11.03-19.54.15:695][111]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (383)
+[2017.11.03-19.54.15:695][111]LogModuleManager: Shutting down and abandoning module AnimGraph (381)
+[2017.11.03-19.54.15:695][111]LogModuleManager: Shutting down and abandoning module Kismet (378)
+[2017.11.03-19.54.32:507][111]LogModuleManager: Shutting down and abandoning module ClassViewer (376)
+[2017.11.03-19.54.33:111][111]LogModuleManager: Shutting down and abandoning module Toolbox (374)
+[2017.11.03-19.54.33:302][111]LogModuleManager: Shutting down and abandoning module ModuleUI (372)
+[2017.11.03-19.54.33:687][111]LogModuleManager: Shutting down and abandoning module MovieSceneTools (370)
+[2017.11.03-19.54.34:249][111]LogModuleManager: Shutting down and abandoning module OutputLog (368)
+[2017.11.03-19.54.34:377][111]LogModuleManager: Shutting down and abandoning module GammaUI (366)
+[2017.11.03-19.54.34:393][111]LogModuleManager: Shutting down and abandoning module Documentation (364)
+[2017.11.03-19.54.36:337][111]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (362)
+[2017.11.03-19.54.36:481][111]LogModuleManager: Shutting down and abandoning module MovieScene (360)
+[2017.11.03-19.54.36:481][111]LogModuleManager: Shutting down and abandoning module Niagara (358)
+[2017.11.03-19.54.36:481][111]LogModuleManager: Shutting down and abandoning module NiagaraEditor (357)
+[2017.11.03-19.54.38:399][111]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (354)
+[2017.11.03-19.54.38:790][111]LogModuleManager: Shutting down and abandoning module LauncherPlatform (352)
+[2017.11.03-19.54.38:790][111]LogModuleManager: Shutting down and abandoning module AnalyticsET (350)
+[2017.11.03-19.54.38:790][111]LogModuleManager: Shutting down and abandoning module PortalServices (348)
+[2017.11.03-19.54.38:790][111]LogModuleManager: Shutting down and abandoning module PortalRpc (346)
+[2017.11.03-19.54.38:790][111]LogModuleManager: Shutting down and abandoning module MessagingRpc (344)
+[2017.11.03-19.54.38:790][111]LogModuleManager: Shutting down and abandoning module AIModule (342)
+[2017.11.03-19.54.39:084][111]LogModuleManager: Shutting down and abandoning module GameplayDebugger (341)
+[2017.11.03-19.54.39:084][111]LogModuleManager: Shutting down and abandoning module AITestSuite (339)
+[2017.11.03-19.54.39:385][111]LogModuleManager: Shutting down and abandoning module ProfilerService (336)
+[2017.11.03-19.54.39:966][111]LogModuleManager: Shutting down and abandoning module TaskGraph (334)
+[2017.11.03-19.54.40:031][111]LogModuleManager: Shutting down and abandoning module SteamVRController (332)
+[2017.11.03-19.54.40:031][111]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (330)
+[2017.11.03-19.54.40:536][111]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (328)
+[2017.11.03-19.54.40:548][111]LogModuleManager: Shutting down and abandoning module OculusInput (326)
+[2017.11.03-19.54.40:785][111]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (324)
+[2017.11.03-19.54.40:785][111]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (322)
+[2017.11.03-19.54.40:785][111]LogModuleManager: Shutting down and abandoning module CableComponent (320)
+[2017.11.03-19.54.41:034][111]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (318)
+[2017.11.03-19.54.41:034][111]LogModuleManager: Shutting down and abandoning module AndroidPermission (316)
+[2017.11.03-19.54.41:034][111]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (312)
+[2017.11.03-19.54.41:246][111]LogModuleManager: Shutting down and abandoning module HTML5Networking (310)
+[2017.11.03-19.54.41:246][111]LogModuleManager: Shutting down and abandoning module AlembicImporter (308)
+[2017.11.03-19.54.41:340][111]LogModuleManager: Shutting down and abandoning module AlembicLibrary (307)
+[2017.11.03-19.54.41:416][111]LogModuleManager: Shutting down and abandoning module GeometryCache (306)
+[2017.11.03-19.54.41:416][111]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (305)
+[2017.11.03-19.54.41:416][111]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (300)
+[2017.11.03-19.54.41:601][111]LogModuleManager: Shutting down and abandoning module PluginBrowser (298)
+[2017.11.03-19.54.43:947][111]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (296)
+[2017.11.03-19.54.44:891][111]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (294)
+[2017.11.03-19.54.44:942][111]LogModuleManager: Shutting down and abandoning module DesktopPlatform (293)
+[2017.11.03-19.54.45:071][111]LogModuleManager: Shutting down and abandoning module UObjectPlugin (290)
+[2017.11.03-19.54.45:071][111]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (288)
+[2017.11.03-19.54.45:627][111]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (286)
+[2017.11.03-19.54.46:598][111]LogModuleManager: Shutting down and abandoning module GitSourceControl (284)
+[2017.11.03-19.54.47:598][111]LogModuleManager: Shutting down and abandoning module SourceControl (283)
+[2017.11.03-19.54.47:859][111]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (280)
+[2017.11.03-19.54.47:859][111]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (278)
+[2017.11.03-19.54.47:859][111]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (276)
+[2017.11.03-19.54.47:859][111]LogModuleManager: Shutting down and abandoning module Paper2DEditor (274)
+[2017.11.03-19.54.48:743][111]LogModuleManager: Shutting down and abandoning module MeshPaint (273)
+[2017.11.03-19.54.49:090][111]LogModuleManager: Shutting down and abandoning module LevelEditor (271)
+[2017.11.03-19.54.55:542][111]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (270)
+[2017.11.03-19.54.55:827][111]LogModuleManager: Shutting down and abandoning module MainFrame (268)
+[2017.11.03-19.54.55:934][111]LogModuleManager: Shutting down and abandoning module HotReload (267)
+[2017.11.03-19.54.55:976][111]LogDirectoryWatcher: A directory notification for 'C:/Users/crist/OneDrive/Documentos/Unreal Projects/Krispy/Binaries/Win64' was aborted.
+[2017.11.03-19.54.57:092][111]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (260)
+[2017.11.03-19.54.57:352][111]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (258)
+[2017.11.03-19.54.58:022][111]LogModuleManager: Shutting down and abandoning module PhysXVehicles (256)
+[2017.11.03-19.54.58:022][111]LogModuleManager: Shutting down and abandoning module OculusEditor (254)
+[2017.11.03-19.54.58:022][111]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (252)
+[2017.11.03-19.54.58:022][111]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (250)
+[2017.11.03-19.54.58:023][111]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (248)
+[2017.11.03-19.54.58:503][111]LogModuleManager: Shutting down and abandoning module UdpMessaging (246)
+[2017.11.03-19.54.59:347][111]LogModuleManager: Shutting down and abandoning module TcpMessaging (244)
+[2017.11.03-19.54.59:880][111]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (242)
+[2017.11.03-19.55.00:113][111]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (240)
+[2017.11.03-19.55.00:201][111]LogModuleManager: Shutting down and abandoning module FacialAnimation (238)
+[2017.11.03-19.55.00:201][111]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (236)
+[2017.11.03-19.55.01:479][111]LogModuleManager: Shutting down and abandoning module GraphEditor (235)
+[2017.11.03-19.55.01:895][111]LogModuleManager: Shutting down and abandoning module ContentBrowser (233)
+[2017.11.03-19.55.04:123][111]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (230)
+[2017.11.03-19.55.04:123][111]LogModuleManager: Shutting down and abandoning module Paper2D (228)
+[2017.11.03-19.55.04:134][111]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (226)
+[2017.11.03-19.55.04:469][111]LogModuleManager: Shutting down and abandoning module WmfMedia (224)
+[2017.11.03-19.55.04:991][111]LogModuleManager: Shutting down and abandoning module PacketHandler (222)
+[2017.11.03-19.55.05:074][111]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (220)
+[2017.11.03-19.55.05:195][111]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (218)
+[2017.11.03-19.55.05:443][111]LogModuleManager: Shutting down and abandoning module Overlay (216)
+[2017.11.03-19.55.05:443][111]LogModuleManager: Shutting down and abandoning module OverlayEditor (215)
+[2017.11.03-19.55.05:505][111]LogModuleManager: Shutting down and abandoning module MediaAssets (212)
+[2017.11.03-19.55.05:505][111]LogModuleManager: Shutting down and abandoning module VREditor (210)
+[2017.11.03-19.55.05:895][111]LogModuleManager: Shutting down and abandoning module StringTableEditor (208)
+[2017.11.03-19.55.06:400][111]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (206)
+[2017.11.03-19.55.06:400][111]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (204)
+[2017.11.03-19.55.06:686][111]LogModuleManager: Shutting down and abandoning module FunctionalTesting (202)
+[2017.11.03-19.55.06:742][111]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (200)
+[2017.11.03-19.55.07:066][111]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (199)
+[2017.11.03-19.55.08:702][111]LogModuleManager: Shutting down and abandoning module UMG (196)
+[2017.11.03-19.55.09:960][111]LogModuleManager: Shutting down and abandoning module UMGEditor (195)
+[2017.11.03-19.55.10:183][111]LogModuleManager: Shutting down and abandoning module Sequencer (194)
+[2017.11.03-19.55.11:544][111]LogModuleManager: Shutting down and abandoning module MessageLog (191)
+[2017.11.03-19.55.12:123][111]LogModuleManager: Shutting down and abandoning module SlateReflector (186)
+[2017.11.03-19.55.12:565][111]LogModuleManager: Shutting down and abandoning module Slate (184)
+[2017.11.03-19.55.12:566][111]LogModuleManager: Shutting down and abandoning module EditorStyle (182)
+[2017.11.03-19.55.16:239][111]LogModuleManager: Shutting down and abandoning module MRMesh (180)
+[2017.11.03-19.55.16:239][111]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (178)
+[2017.11.03-19.55.16:267][111]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (176)
+[2017.11.03-19.55.16:397][111]LogModuleManager: Shutting down and abandoning module XAudio2 (174)
+[2017.11.03-19.55.16:397][111]LogModuleManager: Shutting down and abandoning module Networking (172)
+[2017.11.03-19.55.16:415][111]LogModuleManager: Shutting down and abandoning module Core (168)
+[2017.11.03-19.55.16:415][111]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2017.11.03-19.55.16:853][111]LogModuleManager: Shutting down and abandoning module LevelSequence (162)
+[2017.11.03-19.55.16:853][111]LogModuleManager: Shutting down and abandoning module MeshUtilities (160)
+[2017.11.03-19.55.17:334][111]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (159)
+[2017.11.03-19.55.17:430][111]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (158)
+[2017.11.03-19.55.17:590][111]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (157)
+[2017.11.03-19.55.18:015][111]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (155)
+[2017.11.03-19.55.18:144][111]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (153)
+[2017.11.03-19.55.18:236][111]LogModuleManager: Shutting down and abandoning module MaterialBaking (149)
+[2017.11.03-19.55.18:578][111]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (146)
+[2017.11.03-19.55.18:890][111]LogModuleManager: Shutting down and abandoning module DerivedDataCache (144)
+[2017.11.03-19.55.19:400][111]LogDerivedDataCache: Shutdown
+[2017.11.03-19.55.19:456][111]LogModuleManager: Shutting down and abandoning module TargetPlatform (142)
+[2017.11.03-19.55.19:487][111]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (141)
+[2017.11.03-19.55.19:525][111]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (139)
+[2017.11.03-19.55.19:615][111]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (137)
+[2017.11.03-19.55.19:731][111]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (135)
+[2017.11.03-19.55.20:051][111]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (133)
+[2017.11.03-19.55.20:153][111]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (131)
+[2017.11.03-19.55.20:482][111]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (129)
+[2017.11.03-19.55.20:634][111]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (127)
+[2017.11.03-19.55.20:674][111]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (125)
+[2017.11.03-19.55.22:219][111]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (123)
+[2017.11.03-19.55.22:219][111]LogModuleManager: Shutting down and abandoning module ImageWrapper (122)
+[2017.11.03-19.55.22:219][111]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (119)
+[2017.11.03-19.55.22:361][111]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (117)
+[2017.11.03-19.55.22:576][111]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (115)
+[2017.11.03-19.55.22:638][111]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (113)
+[2017.11.03-19.55.22:710][111]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (111)
+[2017.11.03-19.55.22:920][111]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (109)
+[2017.11.03-19.55.22:969][111]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (107)
+[2017.11.03-19.55.23:018][111]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (105)
+[2017.11.03-19.55.23:034][111]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (103)
+[2017.11.03-19.55.23:044][111]LogModuleManager: Shutting down and abandoning module Messaging (101)
+[2017.11.03-19.55.23:061][111]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (99)
+[2017.11.03-19.55.23:061][111]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (97)
+[2017.11.03-19.55.23:112][111]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (95)
+[2017.11.03-19.55.23:112][111]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (93)
+[2017.11.03-19.55.23:269][111]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (91)
+[2017.11.03-19.55.23:269][111]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (89)
+[2017.11.03-19.55.23:269][111]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (87)
+[2017.11.03-19.55.23:269][111]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (85)
+[2017.11.03-19.55.23:269][111]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (83)
+[2017.11.03-19.55.23:269][111]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (81)
+[2017.11.03-19.55.23:269][111]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (79)
+[2017.11.03-19.55.23:269][111]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (77)
+[2017.11.03-19.55.23:448][111]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (75)
+[2017.11.03-19.55.23:476][111]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (73)
+[2017.11.03-19.55.23:485][111]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (71)
+[2017.11.03-19.55.23:498][111]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (69)
+[2017.11.03-19.55.23:513][111]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (67)
+[2017.11.03-19.55.23:530][111]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (65)
+[2017.11.03-19.55.23:598][111]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (63)
+[2017.11.03-19.55.23:599][111]LogModuleManager: Shutting down and abandoning module InputCore (60)
+[2017.11.03-19.55.23:599][111]LogModuleManager: Shutting down and abandoning module Settings (58)
+[2017.11.03-19.55.23:991][111]LogModuleManager: Shutting down and abandoning module PhysXCooking (56)
+[2017.11.03-19.55.23:991][111]LogModuleManager: Shutting down and abandoning module SteamVR (54)
+[2017.11.03-19.55.24:015][111]LogModuleManager: Shutting down and abandoning module OculusHMD (52)
+[2017.11.03-19.55.24:113][111]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (50)
+[2017.11.03-19.55.24:113][111]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2017.11.03-19.55.24:113][111]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2017.11.03-19.55.24:262][111]LogOnline: Display: Unloading online subsystem: NULL
+[2017.11.03-19.55.24:729][111]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2017.11.03-19.55.25:357][111]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2017.11.03-19.55.25:393][111]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2017.11.03-19.55.25:422][111]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BADC7AB6A-4C07-7863-5493-FB80CC3F68AA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.17.1-3586342%2B%2B%2BUE4%2BRelease-4.17&UserID=bdabe5c64224b35ee989e0b535c34775%7C4e4beab48156422a8694ffd685bafc50%7C21876cea-5101-41ff-99b9-7907c486cf8f&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.11.03-19.55.27:012][111]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2017.11.03-19.55.28:628][111]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2017.11.03-19.55.28:886][111]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2017.11.03-19.55.31:780][111]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2017.11.03-19.55.31:894][111]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2017.11.03-19.55.32:338][111]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2017.11.03-19.55.32:338][111]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2017.11.03-19.55.32:349][111]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2017.11.03-19.55.42:946][111]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2017.11.03-19.55.43:067][111]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2017.11.03-19.55.43:068][111]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2017.11.03-19.55.43:144][111]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2017.11.03-19.55.43:144][111]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2017.11.03-19.55.43:429][111]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2017.11.03-19.55.43:506][111]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2017.11.03-19.55.43:535][111]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2017.11.03-19.55.43:595][111]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2017.11.03-19.55.43:604][111]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2017.11.03-19.55.43:728][111]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2017.11.03-19.55.45:386][111]LogExit: Exiting.
+[2017.11.03-19.55.51:627][111]Log file closed, 11/03/17 16:55:51
