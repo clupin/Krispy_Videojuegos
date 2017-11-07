@@ -1,16 +1,3 @@
-{
-	"FileVersion": 3,
-	"EngineAssociation": "4.17",
-	"Category": "",
-	"Description": "",
-	"Modules": [
-		{
-			"Name": "Krispy",
-			"Type": "Runtime",
-			"LoadingPhase": "Default",
-			"AdditionalDependencies": [
-				"Engine"
-			]
-		}
-	]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:78427178f73cdfaa78488a710f36ff96bfa8700ec3189ec1a37a026097506c1c
+size 251
