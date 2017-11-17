@@ -3,6 +3,14 @@
 #include "Player_Krispy.h"
 
 
+int sign(float value)
+{
+	if (value<0)
+		return -1;
+	else
+		return 1;
+}
+
 // Sets default values
 APlayer_Krispy::APlayer_Krispy(const FObjectInitializer& oi){
  	// Set this character to call Tick() every frame.  You can turn this off to improve performance if you don't need it.
@@ -19,6 +27,7 @@ APlayer_Krispy::APlayer_Krispy(const FObjectInitializer& oi){
 	camera->SetupAttachment(cameraBoom, USpringArmComponent::SocketName);
 	camera->bUsePawnControlRotation = false;
 
+	health = 1.0f;
 }
 
 // Called when the game starts or when spawned
@@ -50,9 +59,19 @@ void APlayer_Krispy::SetupPlayerInputComponent(UInputComponent* PlayerInputCompo
 }
 
 void APlayer_Krispy::moveForward(float delta) {
-	if (Controller && delta) {
+	if (Controller && delta){
+		FRotator a = GetActorRotation();
+		FRotator r(0, 0, 0);
+		if (sign(delta) != sign(heading)){
+			heading = sign(delta);
+			if (heading < 0)
+				r.Yaw = 180;
+			else
+				r.Yaw = 0;
+			this->SetActorRotation(r);
+		}
 		FVector fwd = GetActorForwardVector();
-		AddMovementInput(fwd, delta);
+		AddMovementInput(fwd, fabs(delta));
 	}
 }
 
