@@ -13,3 +13,4 @@ Build/
 *.sln.docstates
 *.opendb
 *.db
+Content/KiteDemo/*
