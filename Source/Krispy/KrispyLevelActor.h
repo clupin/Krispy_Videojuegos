@@ -17,5 +17,5 @@ public:
 	AKrispyLevelActor();
 
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = GamePlay)
-	UStaticMeshComponent* barn;
+	AActor* barn;
 };

@@ -4,6 +4,7 @@
 
 #include "CoreMinimal.h"
 #include "GameFramework/Character.h"
+#include "KrispyLevelActor.h"
 #include "Friend_Polluelo.generated.h"
 
 UCLASS()

@@ -30,20 +30,17 @@ void AFriend_Polluelo::Tick(float DeltaTime)
 	Super::Tick(DeltaTime);
 	/* codigo profesor para hacer el encotrar enemigo, hay q basarse en esto para hacer el follow hacia la puerta final
 	pero se debe hacer cuando se crea (arriba ^) */
-	/*
-	AReiken* player = Cast<AReiken>(UGameplayStatics::GetPlayerPawn(GetWorld(), 0));
-	if (player == NULL)
-		return;
-	FVector vplayer = player->GetActorLocation() - GetActorLocation();
-	float distancia = vplayer.Size();
-	if (distancia <= radio_vision->GetScaledSphereRadius()){
+	AKrispyLevelActor* level = Cast<AKrispyLevelActor>(GetWorld()->GetLevelScriptActor());
+	if (level && level->barn)
+	{
+		FVector vplayer = level->barn->GetActorLocation() - GetActorLocation();
+		float distancia = vplayer.Size();
 		vplayer.Normalize();
-		AddMovementInput(vplayer, 20 * delta);
+		AddMovementInput(vplayer, 5 * DeltaTime);
 		FRotator heading = vplayer.Rotation();
 		heading.Pitch = 0;
 		RootComponent->SetWorldRotation(heading);
 	}
-	*/
 }
 
 // Called to bind functionality to input

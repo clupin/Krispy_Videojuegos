@@ -15,6 +15,8 @@ AEnvironment_Barn::AEnvironment_Barn()
 void AEnvironment_Barn::BeginPlay()
 {
 	Super::BeginPlay();
+	AKrispyLevelActor* level = Cast<AKrispyLevelActor>(GetWorld()->GetLevelScriptActor());
+	level->barn = this;
 }
 
 // Called every frame
