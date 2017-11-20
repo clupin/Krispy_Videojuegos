@@ -18,7 +18,7 @@ AFriend_Polluelo::AFriend_Polluelo()
 void AFriend_Polluelo::BeginPlay()
 {
 	Super::BeginPlay();
-//AEnvironment_Barn* eBarn = Cast<AEnvironment_Barn>(UGameplayStatics::GetPlayerPawn(GetWorld(), 0));
+//	AEnvironment_Barn* eBarn = Cast<AEnvironment_Barn>(UGameplayStatics::GetPlayerPawn(GetWorld(), 0));
 //	if (eBarn == NULL)
 //		return;
 //	FVector barn_location = eBarn->GetActorLocation();

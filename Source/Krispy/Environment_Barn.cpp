@@ -15,7 +15,6 @@ AEnvironment_Barn::AEnvironment_Barn()
 void AEnvironment_Barn::BeginPlay()
 {
 	Super::BeginPlay();
-	
 }
 
 // Called every frame

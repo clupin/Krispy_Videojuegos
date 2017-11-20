@@ -4,6 +4,7 @@
 
 #include "CoreMinimal.h"
 #include "GameFramework/Actor.h"
+#include "KrispyLevelActor.h"
 #include "Environment_Barn.generated.h"
 
 UCLASS()
@@ -22,7 +23,4 @@ protected:
 public:	
 	// Called every frame
 	virtual void Tick(float DeltaTime) override;
-
-	
-	
 };
