@@ -7,6 +7,7 @@
 #include "GameFramework/SpringArmComponent.h"
 #include "Camera/CameraComponent.h"
 #include "Player_Krispy.generated.h"
+//#include "Kismet/GameplayStatics.h"
 
 UCLASS()
 class KRISPY_API APlayer_Krispy : public ACharacter
@@ -26,6 +27,12 @@ public:
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = Character)
 	float health;
 
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = Character)
+	float mana;
+
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = Character)
+	int cornBag;
+
 	int heading;
 
 protected:
@@ -33,6 +40,10 @@ protected:
 	virtual void BeginPlay() override;
 
 	void moveForward(float delta);
+
+	int pollueloCorn();
+	int hpCorn();
+	int slowMotion();
 
 public:	
 	// Called every frame

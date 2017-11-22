@@ -28,6 +28,8 @@ APlayer_Krispy::APlayer_Krispy(const FObjectInitializer& oi){
 	camera->bUsePawnControlRotation = false;
 
 	health = 1.0f;
+	mana = 1.0f;
+	cornBag = 0;
 }
 
 // Called when the game starts or when spawned
@@ -51,6 +53,11 @@ void APlayer_Krispy::SetupPlayerInputComponent(UInputComponent* PlayerInputCompo
 	if (PlayerInputComponent) {
 		PlayerInputComponent->BindAxis("forward", this, &APlayer_Krispy::moveForward);
 		PlayerInputComponent->BindAxis("backward", this, &APlayer_Krispy::moveForward);
+		/*
+		PlayerInputComponent->BindAxis("polluelo_corn", this, &APlayer_Krispy::pollueloCorn);
+		PlayerInputComponent->BindAxis("hp_corn", this, &APlayer_Krispy::hpCorn);
+		PlayerInputComponent->BindAxis("slow_motion", this, &APlayer_Krispy::slowMotion);
+		*/
 
 		PlayerInputComponent->BindAction("Jump", IE_Pressed, this, &ACharacter::Jump);
 		PlayerInputComponent->BindAction("Jump", IE_Released, this, &ACharacter::StopJumping);
@@ -74,4 +81,39 @@ void APlayer_Krispy::moveForward(float delta) {
 		AddMovementInput(fwd, fabs(delta));
 	}
 }
+/*
+int APlayer_Krispy::pollueloCorn() {
+	if (this->cornBag >= 1) {
+		this->cornBag -= 1;
+		return 1;
+	}
+	else {
+		return 0;
+	}
+	
+}
 
+int APlayer_Krispy::hpCorn() {
+	if (this->cornBag >= 1) {
+		this->health += 0.1;
+		this->mana += 0.1;
+		this->cornBag -= 1;
+		return 1;
+	} else {
+		return 0;
+	}
+}
+
+int APlayer_Krispy::slowMotion() {
+	//costo de mana = 0.2
+	if (this->mana >= 0.2) {
+		this->mana -= 0.2;
+		UGameplayStatics::SetGlobalTimeDilation(GetWorld(), 0.3);
+		FPlatformProcess::Sleep(2);
+		UGameplayStatics::SetGlobalTimeDilation(GetWorld(), 1);
+		return 1;
+	} else {
+		return 0;
+	}
+}
+*/
