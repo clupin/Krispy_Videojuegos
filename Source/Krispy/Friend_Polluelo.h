@@ -16,6 +16,9 @@ public:
 	// Sets default values for this character's properties
 	AFriend_Polluelo();
 
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = Character)
+	bool pickedUp;
+
 protected:
 	// Called when the game starts or when spawned
 	virtual void BeginPlay() override;
