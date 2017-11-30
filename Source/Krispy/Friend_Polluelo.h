@@ -19,6 +19,9 @@ public:
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = Character)
 	bool pickedUp;
 
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = Character)
+	bool eating;
+
 protected:
 	// Called when the game starts or when spawned
 	virtual void BeginPlay() override;

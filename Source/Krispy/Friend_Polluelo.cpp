@@ -13,6 +13,7 @@ AFriend_Polluelo::AFriend_Polluelo()
 	heading = 1;
 	health = 1.0f;
 	pickedUp = false;
+	eating = false;
 }
 
 // Called when the game starts or when spawned
@@ -32,8 +33,7 @@ void AFriend_Polluelo::Tick(float DeltaTime)
 	/* codigo profesor para hacer el encotrar enemigo, hay q basarse en esto para hacer el follow hacia la puerta final
 	pero se debe hacer cuando se crea (arriba ^) */
 	AKrispyLevelActor* level = Cast<AKrispyLevelActor>(GetWorld()->GetLevelScriptActor());
-	if (level && level->barn && !pickedUp)
-	{
+	if (level && level->barn && !pickedUp && !eating){
 		FVector vplayer = level->barn->GetActorLocation() - GetActorLocation();
 		float distancia = vplayer.Size();
 		vplayer.Normalize();
